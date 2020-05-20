@@ -1,0 +1,784 @@
+,id,endereço,location,point
+0,1,TESTE,"Teste, Otacílio Costa, Região Geográfica Imediata de Lages, Região Geográfica Intermediária de Lages, Santa Catarina, Região Sul, 88540-000, Brasil","(-27.5106495, -50.1162173, 0.0)"
+1,2,"rua da entidade,25",,
+2,3,Av. Augusto Antunes 337,"Avenida Augusto Antunes, Jardim São Carlos, Limoeiro, Vila Jacuí, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08051-100, Brasil","(-23.5122828, -46.4686618, 0.0)"
+3,5,Ermelino Matarazzo e comunidade vila Silvia,,
+4,6,Rua Serra de LUIZ Gomes 1992 cep 08190 500,,
+5,7,Rua Battista malatesta 228 Jd Guarujá,,
+6,8,Av engenheiro pinto  318,"Praça Xavier Pinto Lima, Engenheiro Goulart, Cangaíba, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03717-003, Brasil","(-23.4998295, -46.5243336, 0.0)"
+7,9,Rua Lucas Nogueira Garcez 21,"Rua Lucas Nogueira Garcez, Jardim Baronesa, Vila Nova Esperança, Sorocaba, Região Imediata de Sorocaba, Região Metropolitana de Sorocaba, Região Geográfica Intermediária de Sorocaba, São Paulo, Região Sudeste, 18043-003, Brasil","(-23.4952509, -47.4906554, 0.0)"
+8,10,"Rua Artelinda Rugeri Dadato, 35 - 2andar / Bairro Cipava - Osasco",,
+9,11,Rua Júlio cenalvo 16a,"Rua Júlio Cenalvo, Aricanduva, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03910-070, Brasil","(-23.5828046, -46.5147215, 0.0)"
+10,12,"Rua Gitirana,200 bairro Colônia Itaquera ZL.",,
+11,13,Rua Abner Ribeiro Borges 463,"Rua Abner Ribeiro Borges, Fortaleza, Iguatemi, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08341-240, Brasil","(-23.5960426, -46.4413262, 0.0)"
+12,14,Rua Diego Sande n° 321 - Jardim Camargo Novo - Cep 08121-540,,
+13,15,Av Miguel Achiole da Fonseca - 717,"Avenida Miguel Achiole da Fonseca, Guaianases, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08461-620, Brasil","(-23.5594225, -46.4042714, 0.0)"
+14,16,Rua Ernesto Manograsso 207,"Rua Ernesto Manograsso, Fazenda da Juta, São Mateus, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03963-100, Brasil","(-23.611101, -46.4763234, 0.0)"
+15,17,Rua Manuel Dias  n:22 B,"Rua Manuel Dias, Jardim Nova América, Umuarama, Osasco, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 06056-010, Brasil","(-23.5629075, -46.7827906, 0.0)"
+16,19,"Avenida Acedemia de São Paulo, 715 - São da Associação",,
+17,20,"Rua Fajardo de Barros, 61 - Jd Campos - Itaim Paulista",,
+18,21,RUA MARIO SAMMARCO N.22,"Rua Mário Sammarco, Chácara Dona Olivia, Jardim Camargo Novo, Itaim Paulista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08121-700, Brasil","(-23.5111442, -46.3803857, 0.0)"
+19,22,"Rua Samoa Ocidental,189- Jd São Martinho",,
+20,23,Rua Arquiteto Professor chaves s/n vielas ,,
+21,24,"Rua Margot Fonteyn, 25 - CEP 08121-710",,
+22,25,Av engenheiro pinto  318,"Praça Xavier Pinto Lima, Engenheiro Goulart, Cangaíba, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03717-003, Brasil","(-23.4998295, -46.5243336, 0.0)"
+23,26,Rua Padre Virgílio Campelo 279,"Rua Padre Virgílio Campelo, Chácara Dona Olivia, Jardim Camargo Novo, Itaim Paulista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08121-700, Brasil","(-23.5045842, -46.3784136, 0.0)"
+24,27,Rua Visconde de Guedes Teixeira 100 encosta norte,,
+25,28,AVENIDA Ernesto Souza Cruz 636,"Avenida Ernesto Souza Cruz, Vila Carmosina, Vila Guarani, Itaquera, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08225-410, Brasil","(-23.5263938, -46.4642895, 0.0)"
+26,29,"Rua Graciano Altierio, 49 - Casa Verde Alta  Sao Paulo-SP ","Rua Graciano Altierio, Jardim São Bento, Casa Verde Alta, Casa Verde, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02545-060, Brasil","(-23.4937281, -46.660853, 0.0)"
+27,30,Rua Belem numero 4 b,,
+28,31,"Travessa Rio dos Touros SN, cohab Raposo Tavares",,
+29,32,Rua presidente Dutra 120 vila São Gabriel,"Rua Presidente Dutra, Vila São Gabriel, Pimentas, Jardim Presidente Dutra, Guarulhos, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 07270-260, Brasil","(-23.4612903, -46.4312791, 0.0)"
+30,33,"Rua Cariacica, 59, Jd. Santa Cruz - São Paulo - CEP: 02672060",,
+31,35,"Rua Rodolfo Albino Silva, 49","Rua Rodolfo Albino Silva, Vila Jardim São João, Guaianases, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08420-650, Brasil","(-23.5486504, -46.4248428, 0.0)"
+32,36,"rua arraial de catas altas,222. vila santa inês. são paulo",,
+33,37,"Rua Gaivota, 68","Rua Gaivota, Barra da Tijuca, Zona Oeste do Rio de Janeiro, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 22640-101, Brasil","(-22.9988174, -43.3384157, 0.0)"
+34,38,"Avenida Massao Watanabe, 79 - Jardim Santa Cruz ",,
+35,39,"Rua Francisco Inácio solano, 61 ","Rua Francisco Inácio Solano, Vila Cantinho do Céu, Grajaú, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04849-503, Brasil","(-23.7433668, -46.6559357, 0.0)"
+36,40,Avenida Corifeu de Azevedo Marques 3667 casa 2 Vila Lageado Butantã ,,
+37,41,"Rua Dr Humberto cerruti,151 jardim Mabel ",,
+38,42,rua serra  escalvada num 249 frente,,
+39,43,"Avenida Bento de Souza, 633",,
+40,44,Rua Três Rios no 24 Bom Retiro,"Rua Três Rios, Bairro da Luz, Bom Retiro, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 01124060, Brasil","(-23.5297469, -46.6350552, 0.0)"
+41,45,"Rua Sebastião Dias Fragoso, 33 A","Rua Sebastião Dias Fragoso, Jardim São Luís, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04915-170, Brasil","(-23.6797858, -46.7478171, 0.0)"
+42,46,"Rua Xavier de Magalhães, 64","Rua Xavier de Magalhães, Parque Brasil, Grajaú, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04844-220, Brasil","(-23.7470604, -46.6998502, 0.0)"
+43,47, Rua Alcebiades Bertolotti,"Rua Alcebíades Bertolotti, Vila Cachoeira das Garças, Bairro dos Perreira, Cidade Tiradentes, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08470-790, Brasil","(-23.60121, -46.3925372, 0.0)"
+44,48,RUA ROSE LACOMBE N 270 JARDIM BOA VISTA (SEDE),,
+45,49,"Rua São Caetano do Sul,1056","Rua São Caetano do Sul, Vila Valqueire, Zona Oeste do Rio de Janeiro, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 21330-320, Brasil","(-22.8886833, -43.3732816, 0.0)"
+46,50,"Rua Fernando de Noronha, 28","Rua Fernando de Noronha, Gamboa, Cabo Frio, Região Geográfica Imediata de Cabo Frio, Região Geográfica Intermediária de Macaé-Rio das Ostras-Cabo Frio, Rio de Janeiro, Região Sudeste, 28911-320, Brasil","(-22.8729466, -42.0481386, 0.0)"
+47,51,,"Nanno, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38012, Italia","(46.3144754, 11.0480288, 0.0)"
+48,52, Jardim ,"Jardim, Microrregião de Bodoquena, Região Geográfica Intermediária de Dourados, Mato Grosso do Sul, Região Centro-Oeste, Brasil","(-21.479941, -56.148902, 0.0)"
+49,53,"Rua Iquiririm, 553 - Vila Indiana - Butantã CEP 05586-001 - Nosso ponto de coleta oficial ",,
+50,54,"Rua Jeceaba, 128 - Jardim Bartira - CEP: 08160-030",,
+51,55,"Rua Sebastião Dias Fragoso, 33 A","Rua Sebastião Dias Fragoso, Jardim São Luís, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04915-170, Brasil","(-23.6797858, -46.7478171, 0.0)"
+52,56,Av.Cel.Sezefredo Fagundes / Rua São Cirilo de Alexandria/Rua Gabriel Martins,,
+53,57,Rua Moises Alves dos Santos.906,"Rua Moisés Alves dos Santos, Jardim das Oliveiras, Itaim Paulista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08577-000, Brasil","(-23.4888783, -46.3752864, 0.0)"
+54,58,"Rua Roberto Said ,61","Rua Roberto Said, Chácara Dona Olivia, Jardim Camargo Novo, Itaim Paulista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08141-640, Brasil","(-23.5151903, -46.3840835, 0.0)"
+55,59,,"Nanno, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38012, Italia","(46.3144754, 11.0480288, 0.0)"
+56,60,Rua estrada dom João Nery número 3676,,
+57,61,Em várias localidades da cidade de São Paulo,,
+58,62,R JACOME NUNES n 9 JARDIM ELZA,,
+59,63,rua guaiuvira 89 jardim jaragua itaim paulista,,
+60,64,Em várias localidades da cidade de São Paulo,,
+61,65,Rua Malmequer do Campo 1772,"Rua Malmequer do Campo, Parque do Carmo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08265-040, Brasil","(-23.5816703, -46.4541917, 0.0)"
+62,66,Rua Malmequer do Campo 1772,"Rua Malmequer do Campo, Parque do Carmo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08265-040, Brasil","(-23.5816703, -46.4541917, 0.0)"
+63,67,Rua Vicente Avelar 85 sala 81 conjunto José Bonifácio Itaquera ,,
+64,68,"RUA MANUEL CARREIRA MIGUEL,203","Rua Manuel Carreira Miguel, Jardim Pirituba, Jaraguá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02998-140, Brasil","(-23.4316265, -46.7279555, 0.0)"
+65,69,RUA FLOR DELIS 1652 VILA BRASILÂNDIA ,,
+66,70,"Próxima,a Rua Luigi de Caruso",,
+67,71,Rua Santa Marcelina 991 Vila Carmosina ,"Rua Santa Marcelina, Parque do Carmo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08270-090, Brasil","(-23.5548868, -46.4626898, 0.0)"
+68,72,rua barão Antonio Benfica 35,,
+69,73,rua barão Antonio Benfica 35,,
+70,74,Rua: Canindé n° 83 barrio Canindé SP,,
+71,75,Ocupação Alojamento,,
+72,76,Bairro Rubilene,,
+73,77,Cede do nova América parelheiros colônia ,,
+74,79,Bairro Rubilene,,
+75,80,"Rua Emilio Castro 114, Jardim Damasceno",,
+76,81,Estrada do Alvarenga próximo ao número 3792boneario são francisco,,
+77,82,"Rua Jason Xavier de Barros 185, Jardim das Oliveiras , São Paulo","Rua Jason Xavier de Barros, Jardim das Oliveiras, Jardim Camargo Novo, Itaim Paulista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08121-700, Brasil","(-23.4991512, -46.379133, 0.0)"
+78,83,Rua monsenhor joão batista de carvalho numero 27,"Rua Monsenhor João Batista de Carvalho, Parque Colonial, Cidade Dutra, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04801-000, Brasil","(-23.71651, -46.6934793, 0.0)"
+79,84,Rua Teodoro Rodrigues ,"Rua Teodoro Rodrigues, Jardim Pirituba, Jaraguá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02860-001, Brasil","(-23.4327804, -46.7223474, 0.0)"
+80,85,"Favela do Boi, Domingos Vidigal, Terras sem Males, Ilha dos Ratones, rio de Ouro, Rua Igaraçu Vila Simone, Pque Industrial, Vielas Carlos de Campo e das Flores ",,
+81,86,,"Nanno, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38012, Italia","(46.3144754, 11.0480288, 0.0)"
+82,87,Rua Teodoro Rodrigues 183 jd MARILU ,,
+83,91,Avenida Sapopemba 11.558 loja 1 e 2,,
+84,92,"Rua Santo Rizzo, 120 - CEP: 08470-250",,
+85,93,Rua três Rios 24 bom retiro,"Rua Três Rios, Bairro da Luz, Bom Retiro, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 01124060, Brasil","(-23.5297469, -46.6350552, 0.0)"
+86,94,Estrada Santo Honório 208,"Estrada de Roça interligação entre a comunidade de Liberdade e Santilário, Roveta, Marilândia, Microrregião Colatina, Região Geográfica Intermediária de Colatina, Espírito Santo, Região Sudeste, 29725-000, Brasil","(-19.3781796, -40.5489924, 0.0)"
+87,95,Rua Euclides de Jesus n60 José Bonifácio ,,
+88,96,rua barão Carvalho do amparo altura 18,,
+89,97,"Rua Herval, 91, Belenzinho, 03062-000, São Paulo - SP",,
+90,98,Rua projetada1 568 condomínio melila ,,
+91,99,"AVENIDA CELSO GARCIA, 2117, Bras, 03015-000, SÃO PAULO - SP","Avenida Celso Garcia, Brás, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03052-000, Brasil","(-23.5397772, -46.6105529, 0.0)"
+92,100,"Rua Herval, 91B, Belenzinho, 03062-000, São Paulo - SP",,
+93,101,,"Nanno, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38012, Italia","(46.3144754, 11.0480288, 0.0)"
+94,102,Rua Silveira martins 72 3 andar,,
+95,103,diversos ( assessoramos varias  comunidades na cidade de sao paulo),,
+96,104,"Rua Edmundo Abreu, 359 ","Rua Edmundo Abreu, Vila Jardim Elian, Parque do Carmo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03966-000, Brasil","(-23.5756312, -46.4533796, 0.0)"
+97,105,ATRAVESSA GUANHEMBU,,
+98,106,"RUA EUGENIO DE ANDRADE, 307 - CASA - JD MARINGA- CEP 04814-050",,
+99,107,"Av. Jardim Tamoios, 1738",,
+100,108,Estrada dos mirandas 301...JD.DAS. Palmas,,
+101,109,Rua Lucas Fernandes Pinto n 170 Parque São Rafael ,,
+102,111,"Rua Santa Sofia,250 Jardim Turquesa",,
+103,112,"Rua Tomás de Santa Maria, 77 - Teotônio Vilela ",,
+104,113,"Rua Madre Nineta Jonata, 126-128","Rua Madre Nineta Jonata, Itaberaba, Freguesia do Ó, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02831-000, Brasil","(-23.4843095, -46.6928649, 0.0)"
+105,114," Rua Raimundo Figueiredo, Viela São Tomé Comunidade do Jardim ",,
+106,115,"Rua manuel de teffé, N 43","Rua Manuel de Teffé, Cidade Dutra, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04801-000, Brasil","(-23.7022171, -46.691361, 0.0)"
+107,116,Rua Hélcio da Silva,"Rua Hélcio da Silva, Brasilândia, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02856000, Brasil","(-23.4549565, -46.6969388, 0.0)"
+108,117,Rua Bernardino Prudente 52,,
+109,118,Rua Bernardino prudente 42,,
+110,120,"Rua Bernardino prudente, 52",,
+111,121,Rua Luís bordese n 93 sala 07 alt ,,
+112,123,RUA JOSÉ CARDOSO PIMENTEL  Nº 734   VILA ALABAMA    CEP 08110-490 ,,
+113,124,"Rua Valentim Lopes, 136 Vl Aimoré cep:08190-10",,
+114,125,"Rua Domingos Rinaldelli,1709","Rua Domingos Rinaldelli, Parque Brasil, Grajaú, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04842-090, Brasil","(-23.7421503, -46.6837525, 0.0)"
+115,126,rua maria José da conceicao  número 700 vila andrade,"Rua Maria José da Conceição, Jardim Parque Morumbi, Villaggio Panamby, Vila Andrade, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05724-002, Brasil","(-23.6325605, -46.7390715, 0.0)"
+116,127,Estrada Canal do Cocaia. N. 1481,,
+117,129,"Cidade Júlia,Jardim  Luso , Rua Guacuri",,
+118,130,Rua presidente Dutra 120 vila São Gabriel,"Rua Presidente Dutra, Vila São Gabriel, Pimentas, Jardim Presidente Dutra, Guarulhos, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 07270-260, Brasil","(-23.4612903, -46.4312791, 0.0)"
+119,131,Rua Mirassol Doeste 39 Jardim das Camélias. CEP 08050 840,,
+120,132,"Rua Itanhangá, 540 CEP 02342110 ",,
+121,133,"RUA JORGE CARLOS DE ALMEIDA, 30 - CEP 08390355 - JARDIM SANTO ANDRE - SAO PAULO",,
+122,136,Estrada da vaquejada,"Vaquejada, Estrada de Cuieiras, Umbura, Nova Cruz, Igarassu, Região Geográgica Imediata do Recife, Região Metropolitana do Recife, Região Geográfica Intermediária do Recife, Pernambuco, Região Nordeste, 53600-000, Brasil","(-7.860704500000001, -34.88212050984812, 0.0)"
+123,137,Rua Marcos Soares Pereira n.31 Jardim Nélia ,,
+124,138,Estrada da vaquejada,"Vaquejada, Estrada de Cuieiras, Umbura, Nova Cruz, Igarassu, Região Geográgica Imediata do Recife, Região Metropolitana do Recife, Região Geográfica Intermediária do Recife, Pernambuco, Região Nordeste, 53600-000, Brasil","(-7.860704500000001, -34.88212050984812, 0.0)"
+125,139,"Rua Guaianases, nº 67, apto 810 ? CEP 01204-000 , República",,
+126,140,"Rua Windsor, 10","Rua Windsor, Jardim Iporanga, Cidade Dutra, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04801-000, Brasil","(-23.7237685, -46.6963673, 0.0)"
+127,141,"Cidade Júlia,Jardim Luso Av Guacuri",,
+128,142,Rua Bernardino Silva N 173,"Rua Bernardino Silva, Vila Curuça, Jardim Silva Teles, Vila Curuçá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08160-495, Brasil","(-23.4969296, -46.4092377, 0.0)"
+129,143,Rua Severino de Freitas Prestes 331,,
+130,144,"Rua Armando Sposito, 65 Parque América Grajaú",,
+131,145,Rua Amanari 612 A,"Rua Amanari, José Bonifácio, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08420-400, Brasil","(-23.5354078, -46.432793, 0.0)"
+132,146,Rua mame 726,"Rua Mame, Vila Sebastião Afonso, Cidade Ademar, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04416-330, Brasil","(-23.6756236, -46.6332464, 0.0)"
+133,147,Rua Lucas Fernandes Pinto 170 Parque São Rafael,,
+134,148,Rua Manuel da Silveira 16 Jd Vila Carrão,,
+135,149,"RUA INTERATIVA, 99 AP 41 B 05",,
+136,150,Rua Afonso Dias 54 Jd Pirauama,,
+137,151,Av.Intercontinental ,"Avenida Intercontinental, Jardim Jaqueline, Jardim Jussara, Vila Sônia, Taboão da Serra, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05525-060, Brasil","(-23.595585, -46.7603185, 0.0)"
+138,153,Rua:Big Boys n:356,,
+139,154,RUA ALEXANDRE ARCHIPENKO 251,"Rua Alexandre Archipenko, Jardim Parque Morumbi, Villaggio Panamby, Vila Andrade, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05724-002, Brasil","(-23.6352535, -46.7376505, 0.0)"
+140,155,Rua Raimundo de Paula Freitas  Rua Romualdo de Sousa Brito ,,
+141,156,Cecília maria das dores  n 73,,
+142,157,Rua Damásio Pinto 2101 Parada XV de Novembro CEP 08247-000,,
+143,158,Av Félix nascentes Pinto  106,"Avenida Félix Nascentes Pinto, Chacára Três Meninas, Jardim Helena, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08090-000, Brasil","(-23.479154, -46.4278698, 0.0)"
+144,159,"rua brook taylor, 974 - jd.nordeste",,
+145,160,"Jardim Silva Telles, Jardim Noêmia, Jardim Camargo Novo",,
+146,161,Rua Julia Mameia próximo ao numero 45 / referencia escola Estadual Dr Chrstiano,,
+147,162,Bairro Jardim Eliana,,
+148,163,Rua vale do sol n° 189  Bairro: Vila Brasilândia. CEP:02820070,,
+149,164,Avenida Sapopemba  26.351,,
+150,165,"Rua Socialista,168 CEP:04472-205 Cidade Julia Sao Paulo SP",,
+151,166,Rua Sebastião Annuciatto n.240 . Cep 05527040 jd Celeste,,
+152,167,Final da rua morro das pedras 154  bairro: jd São francisco,,
+153,168,Rua Engenheiro Álvaro Cunha 03,"Rua Engenheiro Álvaro Cunha, Jardim Camargo Novo, Itaim Paulista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08554-060, Brasil","(-23.5064864, -46.3696852, 0.0)"
+154,169,"RUA TARASCA, Nº 34","Rua Tarasca, Jardim Myrna, Grajaú, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04857-320, Brasil","(-23.7766427, -46.7066426, 0.0)"
+155,170,"End. Praça Tomas Coelho de Almeida, 1315 . Bairro Jardim de Abril. Cep; 053997-140",,
+156,171,"Rua Asas Partidas, nº 35, Cidade A. E. Carvalho, CEP: 08223-410",,
+157,172,Rua Isabel Morales de oliveira Miragaia.   680,"Rua Isabel Morales de Oliveira Miragaia, Vila Curuça Velho, Jardim Ipê, Vila Curuçá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08115-100, Brasil","(-23.5010101, -46.415742, 0.0)"
+158,173,Viela da Paz. n.14.  Favela Mandioquinha,,
+159,174,"Rua Satélite Janus, 126 CEP 04858-530",,
+160,176,Rua Thomé Guimarães 17 Jd Novo Horizonte ,,
+161,180,Rua Virginia Modesto 1499,"Rua Virginia Modesto, Recanto Campo Belo, Jardim Almeida, Parelheiros, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04880-035, Brasil","(-23.7920661, -46.7353405, 0.0)"
+162,181,Rua Xopotó 30,"Parada de Chopotó, Rosário do Pontal, Ponte Nova, Microrregião Ponte Nova, Região Geográfica Intermediária de Juiz de Fora, Minas Gerais, Região Sudeste, Brasil","(-20.2981046, -42.9155148, 0.0)"
+163,182,"Rua Diogo Gonçalves laço,210","Rua Diogo Gonçalves Laco, Jardim Romano, Jardim Helena, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08191-290, Brasil","(-23.4802686, -46.3859355, 0.0)"
+164,183,Rua janez Novak n21a CEP 08111755 e rua Freguesia de são Romão n1427 cep08180150,,
+165,184,,"Nanno, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38012, Italia","(46.3144754, 11.0480288, 0.0)"
+166,185,,"Nanno, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38012, Italia","(46.3144754, 11.0480288, 0.0)"
+167,186,Rua janez Novak n21a CEP 08111755 e rua Freguesia de são Romão n1427 cep08180150,,
+168,187,Rua Estrada da Cachoeira viela 10 número 130a,,
+169,188,RUA LUCÍDIO MARCONDES DE SOUZA 10 CEP 05569-060 JARDIM JOÃO XXIII,,
+170,189,AV LUCILO DE ALMEIDA 414. CEP: 05.778-250 - PARQUE ARARIBA,,
+171,190,"Rua Vicente Antônio de Oliveira, 04","Rua Vicente Antônio de Oliveira, Azevedo E Travassos, Vila Mirante, Pirituba, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02952-080, Brasil","(-23.467421, -46.7211588, 0.0)"
+172,191,"Rua Evaldo Calabrez, 1647","Rua Evaldo Calabrez, Jardim Soares, Guaianases, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08410-000, Brasil","(-23.5491437, -46.418794, 0.0)"
+173,193,RUA LUCÍDIO MARCONDES  SOUZA Nº10 CEP 05569-060 JARDIM JOÃO XXIII,,
+174,194,Rua araruta n 28 vila seabra,,
+175,195,AV LUCILO DE ALMEIDA 414. CEP: 05.778-250 - PARQUE ARARIBA,,
+176,196,"Rua Evaldo Calabrez, 1647","Rua Evaldo Calabrez, Jardim Soares, Guaianases, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08410-000, Brasil","(-23.5491437, -46.418794, 0.0)"
+177,197,Rua Osório Vieira Franco,,
+178,198,Rua Joaquim goveia Franco 388,,
+179,199,rua Luiz Rubin 125,,
+180,200,Rua Boa Esperança.15.cep04851709.Av.Pres.João Goulart 971.JardinMallia.cep.04821010...Rua 3 de Outubro91 cep..08090284,,
+181,206,Rua Rui Barbosa,"Rua Rui Barbosa, Bairro Antonio Café, Olho d'Água das Cunhãs, Microrregião do Médio Mearim, Região Geográfica Intermediária de Imperatriz, Maranhão, Região Nordeste, 65706000, Brasil","(-4.1427815, -45.1254333, 0.0)"
+182,207,"Rua terezine 113, Jardim Ideal ",,
+183,208,"Rua Padre Pompeu de Almeida, 130 - Jd. Santa Bárbara - São Mateus ",,
+184,209," Rua Darci Mano, 269 - Vila Odete - Guaianazes",,
+185,210,"Av. Baronesa de Muritiba, 214 - Parque São Rafael",,
+186,211,Rua Ida Vanusei Puntel 11 A Cidade Nova São Miguel  SP,,
+187,214,"Rua. Forte de São Caetano,147 A","Rua Forte de São Caetano, Cachoeirinha, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02634-020, Brasil","(-23.458543, -46.6559712, 0.0)"
+188,215,Rua jose gomes de GOUVEIA N 91,,
+189,216,Rua cachoeira utupiru 197 vila.nova itaim,,
+190,218,elisio mendes Gaia n 286 Jardim São Carlos cidade Ademar São Paulo capital CEP 04433220,,
+191,222,Rua Pedro Ran[,"Faculdade de Ciências Naturais e Matemática da UP, Rua de São Pedro, Chamanculo B, Distrito Municipal de Nlhamankulu, Cidade de Maputo, 1104, Mozambique","(-25.94323455, 32.54350583713665, 0.0)"
+192,223,"Rua Pedro Ramazzani, 167A - Recanto Verde Sol - São Mateus",,
+193,224,Rua Arraial de Santa Barbara 971- Jd. Pedro José Nunes,,
+194,225,"Rua Jean Noverre, 82 - parque dos Bancários",,
+195,226,Av:São Lázaro de Jerusalém n 11 jardim Irene Guaianases,,
+196,227,"rua Ernesto Cerreti, 514 cidade Tiradentes cep 08470-220 São Paulo SP",,
+197,228,RUA :DOUTOR SAUL DE CAMARGO NEVES nº257 ( REF: DELEGACIA  24 DA AV SAO MIGUEL ),,
+198,229,Travessa pau pombo 150  CEP 04849007,,
+199,230,Avenida Bento Guelf 2280 complemento rua aroeira número 1,,
+200,232,Rua Cassiano dos Santos ,"Rua Cassiano dos Santos, Jardim Iporanga, Cidade Dutra, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04801-000, Brasil","(-23.7192497, -46.7020415, 0.0)"
+201,233,"Rua Arumarana, 26 - Jd. Eliane",,
+202,234,Avenida Maria Amalia Lopes de Azevedo 4180,,
+203,235,"Rua Ramondett Giacomo, 13, Vila Dalva. Cep 05397-110",,
+204,237,"Rua Teste, 123","Teste, Arthez-d'Asson, Pau, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64800, France","(43.0782638, -0.2479289, 0.0)"
+205,238,Rua Dr Otávio Lobo 261 CEP 02961-100,,
+206,239,"Rua Silvestro Palma, 52-B - Vila Jaragua Pirituba ",,
+207,240,"Rua Santo Rizzo, 120 - CEP 08470-250",,
+208,241,Av intercontinental 1240,"Avenida Intercontinental, Jardim Jaqueline, Jardim Jussara, Vila Sônia, Taboão da Serra, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05525-060, Brasil","(-23.595585, -46.7603185, 0.0)"
+209,242,Rua São Felipe 68 vila Maria na associação dos moradores- Cláudia Soares,,
+210,243,"Av. João Peixoto Viegas, 1030","Avenida João Peixoto Viegas, Campinha, Vila Arriete, Campo Grande, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04438-090, Brasil","(-23.6753949, -46.6730175, 0.0)"
+211,244,Rua luis carlos de mouras campos 457 jardim ipe,,
+212,245,"Rua Joaquim forzano,50 ","Rua Joaquim Forzano, Pedreira, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04475000, Brasil","(-23.7045165, -46.6340244, 0.0)"
+213,246,"Rua Regina Garba, 2 cep 02813-030 Jd paulistano são Paulo SP",,
+214,247,"Rua Lucinda Simões, 100 parada de Taipas- são Paulo SP cep 02815-020 - COHAB",,
+215,248,"Rua Arte do Sol, 27","Rua Arte do Sol, Vila Carmosina, Vila Guarani, Itaquera, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08225-410, Brasil","(-23.5270392, -46.4616939, 0.0)"
+216,249,"Rua Manoel da Maia, 131",,
+217,250,Rua Rafael Correia da Silva 84,"Rua Rafael Correia da Silva, Vila Simone, Itaim Paulista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08110-220, Brasil","(-23.4940197, -46.399917, 0.0)"
+218,251,Rua Setenta e Tres ,"Rua 73, Beira Rio, Parauapebas, Microrregião de Parauapebas, Mesorregião Sudeste Paraense, Pará, Região Norte, 68515-000, Brasil","(-6.0682682, -49.8815128, 0.0)"
+219,252,"Rua Expedito Ribeiro de Souza, 30","Rua Expedito Ribeiro de Souza, Jardim Pirituba, Jaraguá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02810-000, Brasil","(-23.4507985, -46.712221, 0.0)"
+220,253,"Rua frutas de Santo Amaro,  65 A","Rua Frutas de Santo Amaro, Vila Heliópolis, Sacomã, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04236-270, Brasil","(-23.6111772, -46.5914463, 0.0)"
+221,254,JOAO AMOS COMENIUS 849 JARDIM SAO BERNARDO ,,
+222,255,Rua Amapola 232 Jd Mutinga cep 05159-000 são Paulo SP,,
+223,256,Rua Toyami Suyama Número 169/179,,
+224,257,"Rua Aurora do Norte ,167","Rua Aurora do Norte, Bangu, Zona Oeste do Rio de Janeiro, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 21840-700, Brasil","(-22.8797074, -43.4812513, 0.0)"
+225,258,Rua Piassanguaba 3061,"Rua Piassanguaba, Verdes Mares, Tijuca, Campo Grande, Microrregião de Campo Grande, Região Geográfica Intermediária de Campo Grande, Mato Grosso do Sul, Região Centro-Oeste, 79083800, Brasil","(-20.519255, -54.6641393, 0.0)"
+226,259,Av sao paulo n-700,,
+227,260,Rua Tijuape número 596 ,,
+228,261,Rua novo oriente do Piaui 765,"Rua Novo Oriente do Piaui, Jardim Danfer, Cangaíba, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03827-000, Brasil","(-23.4929822, -46.499044, 0.0)"
+229,262,Rua José Francisco de Freitas 783 Jardim Maria Rita,,
+230,263,Rua Alexandre giuste 165,,
+231,264,Rua castelêndia n 106,,
+232,265,Rua FranciscoNunescubas 220 apartamentos 532,,
+233,266,"Rua Teofilandia 98, Jardim Inadiá, Itaim Paulista, Cep 08141-135",,
+234,267,"RUA Alayde de Souza Costa, 612","Rua Alayde de Souza Costa, Vila Carmosina, Parada XV de Novembro, Itaquera, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08215-460, Brasil","(-23.5422073, -46.4431807, 0.0)"
+235,268,"RUA Alayde de Souza Costa, 612","Rua Alayde de Souza Costa, Vila Carmosina, Parada XV de Novembro, Itaquera, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08215-460, Brasil","(-23.5422073, -46.4431807, 0.0)"
+236,269,Cidade satélite Santa Barbara,,
+237,270,"RUA IAMBU, 139 - PARQUE SÃO RAFAEL-- SÃO PAULO-SP CEP 08311-210",,
+238,271,Rua Carmino Amidio 39 - Jardim Tanay - Sao Paulo - SP,,
+239,272,"RUA PEDRO DA LOMBA, 139 - PARQUE SÃO RAFAEL - SÃO PAULO - SP - CEP 08311-210",,
+240,273,Rua silveira martins72 2 andar sala 22 praça da se,,
+241,274,"RUA IAMBU, 395 - PARQUE SANTA MADALENA - SÃO PAULO-SP CEP 03982-070",,
+242,276,"RUA ALESSANDRO MELANI,156 JARDIM SÃO JOAO - SÃO PAULO - SP - CEP 08370-345",,
+243,278,"Rua Alice dos Santos Peixe, 1094","Rua Alice dos Santos Peixe, Pedreira, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04431-140, Brasil","(-23.690241, -46.6554134, 0.0)"
+244,280,Rua Aurélio de Campos 204 CEP 03977570,,
+245,281,Referencia Av Ipê roxo Comunidade do boi,,
+246,282,Av José Higino Neves 1624,"Avenida José Higino Neves, Conjunto Inácio Monteiro, Cidade Tiradentes, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08461-620, Brasil","(-23.5660544, -46.4028933, 0.0)"
+247,283,Rua música da boa noite  ,"Travessa Música de Boa Noite, Fazenda Oratório, São Rafael, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 09380-428, Brasil","(-23.6359811, -46.4672596, 0.0)"
+248,284,"Rua Forte de Trindade,77","Rua Forte de Trindade, Jardim Iporã, Parelheiros, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04865-150, Brasil","(-23.7862996, -46.7109798, 0.0)"
+249,285,Rua Angelina aprobhato machado número 60  CEP 94416320,,
+250,286,Rua monsenhor João batista de carvalho 26,"Rua Monsenhor João Batista de Carvalho, Parque Colonial, Cidade Dutra, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04801-000, Brasil","(-23.71651, -46.6934793, 0.0)"
+251,287,"AV:RAGUEB CHOFFI  N: 5450  J, D  IGUATEMI  S, P",,
+252,288,Rua Martim Correia de Sá n° 134  - CEP: 08451-090,,
+253,289,"Rua Vila Caiz, 68","Vila Caiz, Amarante, Porto, Tâmega e Sousa, Norte, Portugal","(41.229918, -8.1252874, 0.0)"
+254,290,Av. Râguebi Choffi  n5450 JD Iguatemi são matheus ,,
+255,292,Rua gregorio de Torres 540 sala 1,,
+256,293,"Rua Flor do Lírio, s/n - Conjunto Habitacional Brasilândia B-2",,
+257,294,Av. Lourenco Cabreira 504,"Avenida Lourenço Cabreira, Parque Colonial, Cidade Dutra, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04801-000, Brasil","(-23.7146404, -46.6900467, 0.0)"
+258,295,Rua Alexandre orlov 92,"Rua Alexandre Orlov, Jardim Pirituba, City Jaraguá, Jaraguá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02998-140, Brasil","(-23.4341084, -46.730285, 0.0)"
+259,296,Rua do cobre 299 ,"Rua do Cobre, Conjunto Inácio Monteiro, Cidade Tiradentes, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08472-610, Brasil","(-23.568861, -46.4001933, 0.0)"
+260,297,"Rua Maria Amélia Gouvêia André, 01","Rua Maria Amélia Gouvêia André, Vila Campo de Fora, Jardim São Luís, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05822-020, Brasil","(-23.6617479, -46.7579299, 0.0)"
+261,298,"Rua Nova Santa Eosa ,52 Sao Miguel Pta SP",,
+262,299,Rua Alfredo Moreira Pinto 56,"Rua Alfredo Moreira Pinto, Vila Simone, Itaim Paulista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08110-220, Brasil","(-23.5031898, -46.4005111, 0.0)"
+263,300,"Rua Condessa de São Joaquim, 277. Bela Vista. São Paulo ","Rua Condessa de São Joaquim, Bixiga, Bela Vista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 01502-001, Brasil","(-23.5582233, -46.6391493, 0.0)"
+264,301,Rua Carlos Gonzalez 8 apt ¹62,,
+265,302,,"Nanno, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38012, Italia","(46.3144754, 11.0480288, 0.0)"
+266,303,"Avenida Flor da Abissínia, 238","Rua Flor da Abisinia, Vila Guarani, Itaquera, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08050-710, Brasil","(-23.5185678, -46.4632003, 0.0)"
+267,304,Rua. Coronel  José Gladiador  nº264 casa 2  - CEP: 05267-000,,
+268,305,,"Nanno, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38012, Italia","(46.3144754, 11.0480288, 0.0)"
+269,306,"Rua Alberto Lupo, 348 - Parque Bancário - São Paulo.",,
+270,307,"Rua Astúrias 325, Imirim","Rua Asturias, Jardim São Bento, Casa Verde Alta, Casa Verde, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02540003, Brasil","(-23.4904105, -46.6563063, 0.0)"
+271,308,"Praça Lauda Lopes, 01 - Vila Curuça - São Paulo - SP","Praça Lauda Lopes, Jardim Maia, Vila Curuçá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08030-050, Brasil","(-23.4947975, -46.4245993, 0.0)"
+272,309,Rua Adamus de Dore 102,"Rua Adamus de Dorê, Vila Itajuíbe, Jardim São Luís, Itaim Paulista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08121-080, Brasil","(-23.4999453, -46.3916124, 0.0)"
+273,310,"Rua Astúrias 325, Imirim","Rua Asturias, Jardim São Bento, Casa Verde Alta, Casa Verde, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02540003, Brasil","(-23.4904105, -46.6563063, 0.0)"
+274,311,"Rua Pau D Arco Roxo, 167",,
+275,312,Morro da Mandioca,"Morro da Mandioca, Aracati, Microrregião do Litoral de Aracati, Região Geográfica Intermediária de Iguatu, Ceará, Região Nordeste, Brasil","(-4.564629, -37.6689745, 0.0)"
+276,313,Rua batista crespo 105 ,"Rua Batista Crespo, Jardim Iracema, Campo Limpo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05788-390, Brasil","(-23.6322161, -46.7713275, 0.0)"
+277,315,"Avenida Flor da Abissínia, 238","Rua Flor da Abisinia, Vila Guarani, Itaquera, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08050-710, Brasil","(-23.5185678, -46.4632003, 0.0)"
+278,316,,"Nanno, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38012, Italia","(46.3144754, 11.0480288, 0.0)"
+279,317,"Avenida Flor da Abissínia, 238 Itaquera São Paulo","Rua Flor da Abisinia, Vila Guarani, Itaquera, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08050-710, Brasil","(-23.5185678, -46.4632003, 0.0)"
+280,318,Avenida Irmã Dulce 33A Jd dos Bichinhos,,
+281,319,,"Nanno, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38012, Italia","(46.3144754, 11.0480288, 0.0)"
+282,320,Rua João gottzfritz filho 18,"Rua João Gottzfritz Filho, Vila Sorocabana, Cidade Dutra, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04801-000, Brasil","(-23.7124939, -46.6911244, 0.0)"
+283,321,Rua cinturão verde 156 vila santa Inês,,
+284,322,"Travessa Sene do Reino, 151","Travessa Sene do Reino, Jardim Alvorada, Capão Redondo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05858-001, Brasil","(-23.6712753, -46.7786476, 0.0)"
+285,323,"R República de San Marino, 59 - Burgo Paulista",,
+286,324, Rua Antônio de Pádua Dias 658 vila hugareza,,
+287,325,"Travessa Emílio Baran,123 fundos. Cohab Taipas",,
+288,326,"Rua Valdemar Paiva Almeida, 87 - Cidade Nova São Miguel Paulista ",,
+289,327,"Rua dos Tamarindos, 51 - Jardim Matarazzo CEP 03813-200",,
+290,328,"RUA:ARRAIL DE SANTA BARBARA ,831 ",,
+291,329,Av D João nere,,
+292,330,"Av Padre Estanislau de Campos, 379 - COHAB I",,
+293,331,"AVENIDA MARIA COELHO AGUIAR,1211 -",,
+294,332,"Avenida Carlos Alberto Bastos Machado,1120, Jardim Sete de Setembro/SP. - CEP: 04856-080",,
+295,333,"Brás, Mooca e Belém",,
+296,334,"Rua Almirante Barroso, nº 832 - Brás","Rua Almirante Barroso, Brás, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03025-001, Brasil","(-23.533136, -46.6090107, 0.0)"
+297,335,Travessa talismã 38,"Travessa Talisma, Parque Boa Esperança, Iguatemi, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08341-000., Brasil","(-23.6108026, -46.4461674, 0.0)"
+298,336,"Av itajuibe ,córrego Itaim Paulista ",,
+299,337,"Rua Rosa Chá, 10 - Cangaíba","Rua Rosa Chá, Jardim Danfer, Cangaíba, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03620-001, Brasil","(-23.5052359, -46.5092965, 0.0)"
+300,338,"Comunidade, ITAOCA",,
+301,339,Rua Três Rios no 24 Bom Retiro,"Rua Três Rios, Bairro da Luz, Bom Retiro, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 01124060, Brasil","(-23.5297469, -46.6350552, 0.0)"
+302,340,RUA COMANDANTE TAYLOR 1331,"Rua Comandante Taylor, Vila Independência, Ipiranga, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04208-053, Brasil","(-23.6001724, -46.6010891, 0.0)"
+303,341,"Rua Fernão Mendes Pinto, 634 - Parque Buturussu",,
+304,342,"Rua Fernão Mendes Pinto, 61 - Ermelino Matarazzo","Rua Fernão Mendes Pinto, Vila Sapolândia, Ermelino Matarazzo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03801-120, Brasil","(-23.4949913, -46.4897076, 0.0)"
+305,343,RUA COMANDANTE TAYLOR 1331,"Rua Comandante Taylor, Vila Independência, Ipiranga, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04208-053, Brasil","(-23.6001724, -46.6010891, 0.0)"
+306,344,Avenida João Caiaffa,"Avenida João Caiaffa, Vila Paz, Ferreira, Vila Sônia, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05741-170, Brasil","(-23.6120378, -46.7496435, 0.0)"
+307,345,Rua Cachoeira da Sorte 131,"Rua Cachoeira da Sorte, Vila Cachoeira das Garças, Bairro dos Perreira, Cidade Tiradentes, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08475-170, Brasil","(-23.5841744, -46.3975886, 0.0)"
+308,346,"Av dos Ipês, 1094 - Jardim dos Ipês","Avenida dos Ipes, Jardim dos Ipês, Anápolis, Microrregião de Anápolis, Região Geográfica Intermediária de Goiânia, Goiás, Região Centro-Oeste, 75083-515, Brasil","(-16.2761528, -48.9340119, 0.0)"
+309,347,Distrito de Brasilândia e Jaraguá ,,
+310,348,RUA COMANDANTE TAYLOR 1331,"Rua Comandante Taylor, Vila Independência, Ipiranga, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04208-053, Brasil","(-23.6001724, -46.6010891, 0.0)"
+311,349,Rua:Ernesto Moreira Maia 31,"Rua Ernesto Moreira Maia, Jardim Santo Elias, São Domingos, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05154-010, Brasil","(-23.5035366, -46.7491807, 0.0)"
+312,350,RUA VICENTE ROBERTO 153,"Rua Vicente Roberto, Jardim Iporanga, Cidade Dutra, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04801-000, Brasil","(-23.7264686, -46.7046409, 0.0)"
+313,351,Rua Alberto Borges Sorveral 50 - Parque Novo Santo Amaro - São Paulo,,
+314,352,"Rua Tajal, 1010","Rua Tajal, Parque Fernanda, Capão Redondo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05858-002, Brasil","(-23.6783487, -46.7928953, 0.0)"
+315,353,"Rua Leonor Alvim, 282 - Interlagos CEP 04802-190.",,
+316,354,"Rua Nova Crixás, número 36",,
+317,355,Rua Big Boys número 356 Jd Bartira cep 08152100,,
+318,357,"Avenida Sabin, 110. Parque Vera Cruz SP",,
+319,358,"Rua Leonor Alvim,243 Interlagos São Paulo","Rua Leonor Alvim, Jardim Cruzeiro, Cidade Dutra, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04801-000, Brasil","(-23.7067898, -46.7027481, 0.0)"
+320,359,"Rua Cantanhede, 300","Rua Cantanhede, Jardim Iracema, Campo Limpo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05790-150, Brasil","(-23.6435438, -46.7856227, 0.0)"
+321,360,Rua Toni Gaúdio 410 CEP 05266-170,,
+322,361,Rua Vicente José Cabral 142,"Rua Vicente José Cabral, Vila Rubens Fraga de Toledo Arruda, Vila Buenos Aires, Cangaíba, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03725-040, Brasil","(-23.5028632, -46.5165341, 0.0)"
+323,362,"Associação dos amigos do Jardim Vila Formosa,  Av. dos pequis , 730     São Paulo- capital",,
+324,364,Jardim Camargo  Novo Itaim Paulista,"Jardim Camargo Novo, Itaim Paulista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08121-700, Brasil","(-23.5043429, -46.3837673, 0.0)"
+325,366,Rua silveira pires 256,"Rua Silveira Pires, Chacára Três Meninas, Jardim Helena, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08080-000, Brasil","(-23.487147, -46.4292951, 0.0)"
+326,367,Rua Davad assunção Lopes,,
+327,368,R. planalto. dos acantilados. 110 .cep 03981/110,,
+328,369,Rua padre Antônio meroth,"Rua Padre Antônio Meroth, Vila Jardim Planalto, Parque Santa Madalena, Sapopemba, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03220-300, Brasil","(-23.6108455, -46.5182893, 0.0)"
+329,370,Rua Cumai 127,"127, Rua Cumai, Vila Esperança, Penha, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03649-000, Brasil","(-23.52976258275862, -46.52648980344827, 0.0)"
+330,371,Rua paulo arentino 1153 apt 54 bloco m01,,
+331,374,"Rua Cristovão Mendes, 36 Jardim São Paulo","Rua Cristovão Mendes, Jardim Soares, Guaianases, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08460-360, Brasil","(-23.5504044, -46.3998398, 0.0)"
+332,375,"Rua Catuné, 33, Jardim Tietê ",,
+333,377,"Rua Professor Assis Veloso, 413 Jd São Vicente",,
+334,378,"Rua Ricardo Butarelo, n° 499, CEP 03813-010",,
+335,379,Rua conquista popular 11 ao lado da escola joao da silva  vila nascente Grajau,,
+336,380,,"Nanno, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38012, Italia","(46.3144754, 11.0480288, 0.0)"
+337,381,"Avenida Nordestina, 3783 - 2º Andar",,
+338,382,"Zona Sul, Jardim das Imbuias, Jd. Iporanga, Vila São José, Vila Angelina, Jardim Real, Jordanópolis",,
+339,383,"Zona Sul, Jardim das Imbuias, Jd. Iporanga, Vila São José, Vila Angelina, Jardim Real, Jordanópolis",,
+340,384,"Rua do Mestre 44, parque de Taipas ","Rua do Mestre, Parque Taipas, Jaraguá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02986-110, Brasil","(-23.4224384, -46.7160765, 0.0)"
+341,385,Rua Setenta e Tres ,"Rua 73, Beira Rio, Parauapebas, Microrregião de Parauapebas, Mesorregião Sudeste Paraense, Pará, Região Norte, 68515-000, Brasil","(-6.0682682, -49.8815128, 0.0)"
+342,386,Rua Jasmim de Porcelana 784,"Rua Jasmim de Porcelana, Jardim São Carlos, Vila Jacui, Vila Jacuí, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08050-390, Brasil","(-23.5072386, -46.4556536, 0.0)"
+343,387,rua dr. aureliano da silva arruda 559,,
+344,388,"RUA JOÃO DA SILVA BRAGA, 477","Rua João da Silva Braga, Jardim Novo Parelheiros, Parelheiros, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04890-090, Brasil","(-23.8265032, -46.718287, 0.0)"
+345,389,"RUA ANTONIO CARLOS BENJAMIM DOS SANTOS, 3025",,
+346,390,rua dr. aureliano da silva arruda 559,,
+347,391,AVENIDA CARLOS BARBOSA DOS SANTOS 549/551,,
+348,392,"RUA LAGOA DA TOCHA, 833","Rua Lagoa da Tocha, Grajaú, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04844-220, Brasil","(-23.7482544, -46.706066, 0.0)"
+349,393,"Av. São João, 473 - Galeria Olido - Centro - São Paulo - CEP 01035-000",,
+350,394,Rua Augusto Cavalcante 84 praça Brasil conj residencial José Bonifácio itaquera cep 08253-110,,
+351,395,Rua Augusto Cavalcante 84 praça Brasil conj residencial José Bonifácio itaquera cep 08253-110,,
+352,396,Rua ida vanucci Pinto 242,,
+353,397,Rua Socialista.26.Av.Gonçalo Paiva Gomes 29.a,,
+354,398,Rua: Amalfi 501 (Jardim Fujihara,,
+355,399,Rua João Badue n 85 setor Gráficos ,,
+356,400,ESTRADA DO MESTRE 43- PARQUE DE TAIPAS.SP.CE- 02987160,,
+357,401,"Periferia de Guarulhos (  Taboão, Cabuçu, Recreio São Jorge Jd.Molte Alto)",,
+358,404,"Periferia de Guarulhos (  Taboão, Cabuçu, Recreio São Jorge Jd.Molte Alto)",,
+359,405,Rua manuel plá155+,,
+360,406,Outros,"FAZENDA RANCHO ALEGRE (GILSON ROQUE MATZENBACHER E OUTROS), Ipiranga do Norte, Microrregião de Alto Teles Pires, Região Geográfica Intermediária de Sinop, Mato Grosso, Região Centro-Oeste, Brasil","(-11.8999413, -56.0026846, 0.0)"
+361,407,"Rua travessa cachoeira de Paulo Afonso, N° 25, Cep 08473-240 - Conjunto Habitacional Sítio Conceição",,
+362,408,Rua Francisco do Amaral 119 Vila Lais ,"Rua Francisco do Amaral, Jardim América da Penha, Vila Laís, Penha, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03739-000, Brasil","(-23.5191151, -46.5380392, 0.0)"
+363,410,"Rua Bilac, 471","Rua Bilac, Beira Rio - Loteamento Jardim Bela Vista (RA - Campo Grande), Campo Grande, Zona Oeste do Rio de Janeiro, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 23070-400, Brasil","(-22.886347, -43.589209, 0.0)"
+364,411,"RUA MANOEL DA SILVEIRA , N° 26 JARDIM VILA CARRAOZINHO CEP 08340 270",,
+365,412,Rua estevan de araujo Almeida n674,"Rua Estevan de Araújo Almeida, Campina, São Leopoldo, Região Geográfica Imediata de Novo Hamburgo - São Leopoldo, Região Geográfica Intermediária de Porto Alegre, Rio Grande do Sul, Região Sul, 93110-351, Brasil","(-29.7529833, -51.1563211, 0.0)"
+366,413,"Rua Presidente Alves, 254 - Conjunto Brigadeiro Faria Lima -Grajaú São Paulo - CEP: 04840-540",,
+367,414,R Corria Lopes N 254 ,,
+368,415,"Rua Rio da Fronteira, 79 - Jardim Alvina","Rua Rio da Fronteira, Vila Jardim Alvina, Jardim Pirituba, Jaraguá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02938-000, Brasil","(-23.43652, -46.7244121, 0.0)"
+369,416,,"Nanno, Comunità della Val di Non, Provincia di Trento, Trentino-Alto Adige/Südtirol, 38012, Italia","(46.3144754, 11.0480288, 0.0)"
+370,418,"Rua Tapiraí, nº 236 - Vila Isolina Mazzei, São Paulo - SP, 02083-070",,
+371,419,Rua domingos tarroso  nu:632,,
+372,421,Correia Lopes no 354 ,,
+373,422,Rua dom Francisco Cardoso Ayres 289 Jd Cambará Butantã,,
+374,423,"Rua São Pompeu, 57 - Bairro Jardim Japão - CEP 02.135-020",,
+375,424,"Rua Sapoti, 20 - Jardim Aeroporto - São Paulo - Cep: 04615-040",,
+376,425,R. planalto. dos acantilados. 110 .cep 03981/110,,
+377,426,elisio mendes Gaia n 286 Jardim São Carlos cidade Ademar CEP 04433220 ,,
+378,427,"Rua Alcino Fidélis, 347 - Vila Nossa Senhora do Retiro ",,
+379,428,Rua Araújo Gondim 345,"Rua Araújo Gondim, Vila Bandeirantes, Sacomã, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04253-000, Brasil","(-23.6147596, -46.5958215, 0.0)"
+380,429,"Rua Ataliba Vieira, 1034 - Vila Medeiros - CEP 02216-000",,
+381,430,"Rua Zacarias Mazel, 128","Rua Zacarias Mazel, Jardim Iracema, Campo Limpo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05790-150, Brasil","(-23.6443058, -46.7840821, 0.0)"
+382,431,Av m boi Guaçu número 622,,
+383,432,"Rua Zacarias Mazel, 128","Rua Zacarias Mazel, Jardim Iracema, Campo Limpo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05790-150, Brasil","(-23.6443058, -46.7840821, 0.0)"
+384,433,Rua José Francisco Chaves 3a jardim paulistano,,
+385,434,R Manoel pendrive 59,,
+386,435,"Rua Major Dantas Cortez, 1.510 - Vila Gustavo - CEP 02206-000.",,
+387,436,"Estr. de Itapecerica a Campo Limpo ,2048 Jd. santo Eduardo Embu das Artes SP.",,
+388,437,Raimundo Pereira de Magalhães ( Capadócia ) ,,
+389,438,Rua  Coelho  Lousada  1000,"Rua Coelho Lousada, Parque Novo Santo Amaro, Jardim Guarujá, Jardim Ângela, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05874-060, Brasil","(-23.6971542, -46.7844651, 0.0)"
+390,439,"Rua dos Jasmins, 46","Rua dos Jasmins, União da Vitória, Região Geográfica Imediata de União da Vitória, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 84600-000, Brasil","(-26.1939758, -51.095763, 0.0)"
+391,441,"Rua Maestro João Balan, 510","Rua Maestro João Balan, Vila Carvalho, Mococa, Região Imediata de São José do Rio Pardo-Mococa, Região Metropolitana de Ribeirão Preto, Região Geográfica Intermediária de Campinas, São Paulo, Região Sudeste, 13735-479, Brasil","(-21.4766416, -46.9970451, 0.0)"
+392,442,"Rua Joaquim Gouveia Franco, 388","Rua Joaquim Gouveia Franco, Vila Nova Divinéia, São Mateus, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03961-020, Brasil","(-23.6013315, -46.4846329, 0.0)"
+393,443,Rua joaquim de oliveira freitas 2028 pirituba,,
+394,444,"Rua Santa davina, 157 - Parque  Paulistano  São São Miguel Paulista ",,
+395,445,Rua joaquim de oliveira freitas 2028 pirituba,,
+396,446,"Rua bruno Cilibert, 129",,
+397,447,"Avenida Progresso, 562","Avenida Progresso, Núcleo Residencial Jardim Icaraí, Campinas, Região Imediata de Campinas, Região Metropolitana de Campinas, Região Geográfica Intermediária de Campinas, São Paulo, Região Sudeste, 13051 407, Brasil","(-22.9559785, -47.0778072, 0.0)"
+398,449,"Av. Dr.Guilherme de Abreu Sodre N"" 1050",,
+399,450,Rua Vercinio Pereira de.Souza 1202,"Rua Vercínio Pereira de Souza, São Mateus, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03929-100, Brasil","(-23.6024199, -46.4886658, 0.0)"
+400,451,"Av Carlos Alberto Bastos Machados, 1120 - Jd Setembro, CEP 04854-080",,
+401,452,"Rua Bartolomeu Ferrari,432","Rua Bartolomeu Ferrari, José Bonifácio, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08260-030, Brasil","(-23.5561208, -46.440131, 0.0)"
+402,453,"Rua das Três Marias,122 Jd Turquesa ",,
+403,454,Rua Antonio fortino 06 Pargue  independência  cep 05875 220,,
+404,455,Rua Antonio FORTINO no  06  Pargue independência  cep 05875 220,,
+405,456,"Rua Angelo Antonelli,12- Jardim Auri Verde",,
+406,457,Rua. Valdirene 07 ,"Rua Valdirene, Fortaleza, Iguatemi, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08381-001, Brasil","(-23.609562, -46.4368594, 0.0)"
+407,458,Bartolomeu dos Santos  541,"Rua dos Santos, Casal da Galharda, São Bartolomeu dos Galegos, São Bartolomeu dos Galegos e Moledo, Lourinhã, Lisboa, Oeste, Centro, 230-578, Portugal","(39.2745001, -9.2337372, 0.0)"
+408,459,Via de Pedestre Vicente Alexandre número 17 blc F,,
+409,460,Rua Marcio da Silva n° 86 Vila Guiomar SP,,
+410,461,Rua curia 338 Sabará ,,
+411,462,"Rua Professor Assis Veloso, 226 Jardim São Vicente ",,
+412,463,RUA PROFESSORA DINA RIZZE 488 jardim aurora Guaianases zona leste cep ,,
+413,464,Rua Cornélio Zélia 187 promorar Jd São Luiz,,
+414,465,Rua Francisco Alarico Bergamo 765,"Rua Francisco Alarico Bergamo, Vila Carmosina, Itaquera, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08210-790, Brasil","(-23.5316571, -46.4533092, 0.0)"
+415,466,Travessa sene do reino  151 -capão redondo ,"Travessa Sene do Reino, Jardim Alvorada, Capão Redondo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05858-001, Brasil","(-23.6712753, -46.7786476, 0.0)"
+416,467,Rua Fernão Sales 04 sala 04,,
+417,468,"AV.GIOVANNI GRONCHI, 6195 - SALA 1308",,
+418,469,"Rua Jundiazinho, 52","Rua Jundiazinho, Jardim Cruzeiro, Cidade Dutra, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04801-000, Brasil","(-23.7096946, -46.7002701, 0.0)"
+419,470,rua pau formiga 35,,
+420,471,"RUA DR. ANDRE BRENHA RIBEIRO, 59 SALA 06",,
+421,472,Rua Salvador Zácaro 03,"Rua Salvador Ícaro, Jardim Robru, Vila Curuçá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08150-070, Brasil","(-23.5156235, -46.4095547, 0.0)"
+422,473,Ermelino Matarazzo zona leste ,,
+423,474,Rua domingos Afonso sertão n°671,,
+424,475,"Rua Araruta, 28, Vila Seabra",,
+425,476,Pedro agulha de Figueiró 19 B ,,
+426,477,"Rua rio salgado, 60, União de Vila Nova",,
+427,478,Av. Lourenço cabreira altura do número 756 cep 04812-010 obs. Na quadra da praça João beiçola,,
+428,479,Rua Abílio César 570,"Rua Abílio César, Capão Redondo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05872120, Brasil","(-23.6802703, -46.7767983, 0.0)"
+429,480,"Rua araçarana, 7, Itaim Paulista","Rua Aracarana, Chácara Dona Olivia, Santa Margarida Paulista, Itaim Paulista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08151-602, Brasil","(-23.5108774, -46.3961203, 0.0)"
+430,482,"Rua Rhea, 150","Rua Rhea, Fazenda da Juta, Jardim Sonia Maria, São Mateus, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08375-000, Brasil","(-23.6131425, -46.4722338, 0.0)"
+431,484,"Rua Aristeu, 5, Vila Fanton, Perus",,
+432,485,"Rua tauro, 366","Rua Tauro, Alto Alegre, Iguatemi, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08381-001, Brasil","(-23.6084749, -46.4224587, 0.0)"
+433,486,Rua João Barbosa Rabelo 434,"Rua João Barbosa Rabelo, Jardim Romano, Jardim Helena, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08191-290, Brasil","(-23.479205, -46.3830038, 0.0)"
+434,487,"Rua Campos do Jordão, 38","Rua Campos do Jordão, Botafogo, Campinas, Região Imediata de Campinas, Região Metropolitana de Campinas, Região Geográfica Intermediária de Campinas, São Paulo, Região Sudeste, 13035-110, Brasil","(-22.9163799, -47.0792181, 0.0)"
+435,488,"Rua Manoel Veloso da Costa, 46 - altos",,
+436,489,"Rua Comendador José de Matos, 350 - Vila Clarice, Rua Rouxinol, 535 - Jaguaré, Rua Franklin Magalhães, 73 - Jabaquara - Avenida São João, 588 - Centro, Rua Dr David Iampolsky, 85 - Bom Retiro - Rua Com. José de Matos, 368 - Entre o Parque do Jaraguá e rod",,
+437,490,"Rua Francisco Lobo, 10","Rua Francisco Lobo, Esplanada, Regional Leste, Belo Horizonte, Microrregião Belo Horizonte, Região Metropolitana de Belo Horizonte, Região Geográfica Intermediária de Belo Horizonte, Minas Gerais, Região Sudeste, 30285-010, Brasil","(-19.906254, -43.904414, 0.0)"
+438,491,"Rua Jacira Artacho, 47 - Cangaíba ","Rua Jacira Artacho, Cangaíba, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03717-002, Brasil","(-23.5043137, -46.5336007, 0.0)"
+439,492,Rua da Baracela 300,"Rua da Baracela, Vila Maria, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 07033-181, Brasil","(-23.5071893, -46.5610836, 0.0)"
+440,493,"Rua Rosa de Ultramar, 20",,
+441,494,"Avenida Rodolfo Pirani, 616","Avenida Rodolfo Pirani, Jardim Vila Carrão, São Rafael, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08395-335, Brasil","(-23.6247507, -46.4626001, 0.0)"
+442,495,"Rua Antônio Silvestre Pereira, 47",,
+443,496,Rua brigadeiro Godinho dos santos 47 ,"Rua Brigadeiro Godinho dos Santos, Vila Pirituba, Jardim Santa Mônica, Pirituba, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05172-270, Brasil","(-23.4790846, -46.7437768, 0.0)"
+444,497,Rua jose Schreittmiller n 149,"Rua José Schreittmiller, Vila Jardim Deise, Tremembé, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02356-020, Brasil","(-23.4470736, -46.6081634, 0.0)"
+445,498,"Rua Joaquim Gouveia Franco, 388 - sala 1",,
+446,499,PRAÇA BARÃO DE ITAQUI 685,"Praça Barão de Itaqui, Vila Gomes Cardim, Vila Azevedo, Tatuapé, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03310-020, Brasil","(-23.540366849999998, -46.56806838052066, 0.0)"
+447,500,"Rua Dr José Cioffi, 494",,
+448,501,"Avenida Bento Guelfi, s/n Altura 1802",,
+449,502,"Rua Álamo, 01 - fundos",,
+450,503,"Rua Mendes Freire, 48","Rua Mendes Freire, Iguatemi, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08381-001, Brasil","(-23.604565, -46.4327673, 0.0)"
+451,504,Endereço rua travessa mirra 100 vila Curuçá,,
+452,505,"Rua Jundiazinho, 52,  Cidade Dutra - São Paulo - SP","Rua Jundiazinho, Jardim Cruzeiro, Cidade Dutra, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04801-000, Brasil","(-23.7096946, -46.7002701, 0.0)"
+453,506,"Rua João Alves de sena , 75 , Jd Bandeirantes ",,
+454,507,Rua Francisco Bitencourt n.468,"Rua Francisco Bitencourt, Centro, João Câmara, Microrregião de Baixa Verde, Região Geográfica Intermediária de Natal, Rio Grande do Norte, Região Nordeste, 59550-000, Brasil","(-5.5373793, -35.8206694, 0.0)"
+455,508,"Av. Bento Guelfi, 2217 - Recanto Verde Sol",,
+456,509,Rua Vicente Jorge 69,"Rua Vicente Jorge, Vila Matoso, Freguesia do Ó, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02765000, Brasil","(-23.4825348, -46.6784953, 0.0)"
+457,510,Rua Fontes de Roma 06  cep 05821-070 charára Santana,,
+458,511,"Avenida Bento Guelfi, 2.217","Avenida Bento Guelfi, Iguatemi, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08341-240, Brasil","(-23.5964214, -46.4357545, 0.0)"
+459,512,"RUA DOUTOR BENEDITO DE ARRUDA VIANA, 126 JARDIM SANTA JOSEFINA",,
+460,513,Rua João de Loaja 142 Jr. Primavera CEP 02755 060 são Paulo,,
+461,514,"Rua Lagoa Da Serra,82 Garagem Jd Paulistano. CEP 02814-030",,
+462,515,"RUA DOUTOR BENEDITO DE ARRUDA VIANA, 126 JD. SANTA  JOSEFINA",,
+463,516,Rua Ourinhos 306 Vila Bertioga ,,
+464,517,"R Glycerio Almeida Maciel, 466",,
+465,518,"Rua Firminópolis, 47","Rua Firminópolis, Brasilândia, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02879-050, Brasil","(-23.4499021, -46.6862579, 0.0)"
+466,519,Domingo de Oliveira 470,,
+467,520,"RUA Fernão tavares, 123 ","Rua Fernão Tavares, Vila Gomes Cardim, Tatuapé, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03316-010, Brasil","(-23.5438601, -46.5759238, 0.0)"
+468,521,Domingo de Oliveira 470,,
+469,522,Av elisio Teixeira leite 2235/2229b,,
+470,523,"Rua: Cardoso Moreira, N°555 Bairro: Jardim Olinda, Campo Limpo. ",,
+471,524,"Rua Victor Bouquet, 4 a  Jardim Imbé- São Paulo- SP- cep 05863-330",,
+472,525,Manoel de Oliveira Ramos ,"Rua Manoel de Oliveira Ramos, Ilha Caraguatá, Cubatão, Região Imediata de Santos, Região Metropolitana da Baixada Santista, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 11534060, Brasil","(-23.9321065, -46.4291304, 0.0)"
+473,526,"Rua: Forte de Trindade,282 A jd. Iporã São Paulo ",,
+474,527,"Rua Gervásio de Souza, 13 Parque Paulistano",,
+475,528,Rua Santa Davina 744 Parque Paulistano ,,
+476,530,ESTRADA DE ITAQUERA A GUAIANAZES 2782,,
+477,531,"Av Afrânio Peixoto, 506 -  Vila Paulina - Diadema  - SP",,
+478,532,Rua Luigi Bassi nº 69B - Americanópolis - São Paulo - SP - Cep 04407-110,,
+479,533,Jardim keralux,"Jardim Keralux, Ermelino Matarazzo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, Brasil","(-23.4815943, -46.49428538907014, 0.0)"
+480,534,Rua telemam147 CP 04844380,,
+481,537,Rua Telemar 147,"Rua Telemar, Ermidinha, Montes Claros, Microrregião Montes Claros, Região Geográfica Intermediária de Montes Claros, Minas Gerais, Região Sudeste, Brasil","(-16.4269095, -44.0923332, 0.0)"
+482,538,"Av. Adelino Jorge Montenegro,n 141","Avenida Adelino Jorge Montenegro, Jardim Danfer, Cangaíba, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03672-010, Brasil","(-23.5091847, -46.5059617, 0.0)"
+483,539,Rua jose pinheiro 100,"Rua José Pinheiro, Vila Botafogo, Vila Ilha Leocadia, Macaé, Região Geográfica Imediata de Macaé-Rio das Ostras, Região Geográfica Intermediária de Macaé-Rio das Ostras-Cabo Frio, Rio de Janeiro, Região Sudeste, 27910060, Brasil","(-22.3675491, -41.7912518, 0.0)"
+484,540,RUA ANTONIO TADHEO 59  SALA 1 LAJEADO ,,
+485,541,Rua  araruta número  28 vila  seabra CP  08180-350,,
+486,542,"Rua: Barra da Forquilha, 629","Rua Barra da Forquilha, Jardim Pirituba, Jaraguá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02995-145, Brasil","(-23.4518761, -46.7305974, 0.0)"
+487,543,Av Irmã Dulce 33A Jd dos Bichinhos ,,
+488,544,Rua Soriano de Albuquerque 163.CEP05893-440,,
+489,545,Rua professor José Augusto bartholo número -81 final da rua,,
+490,546,Rua: Joaquim Gouveia Franco 412 A. São Mateus São Paulo,"Rua Joaquim Gouveia Franco, Vila Nova Divinéia, São Mateus, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03961-020, Brasil","(-23.6013315, -46.4846329, 0.0)"
+491,547,"Rua Narciso Araujo, 907","Rua Narciso Araújo, Vila Carmosina, Itaquera, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08210-200, Brasil","(-23.5375564, -46.4498755, 0.0)"
+492,548,AV EULÁLIA 352,"Avenida Eulália, Vila do Encontro, Jabaquara, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04326-110, Brasil","(-23.6551168, -46.6347959, 0.0)"
+493,549,ESTRADA DE ITAQUERA GUAIANASES 2782  ,,
+494,550,"RUA Alayde de Souza Costa, 612","Rua Alayde de Souza Costa, Vila Carmosina, Parada XV de Novembro, Itaquera, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08215-460, Brasil","(-23.5422073, -46.4431807, 0.0)"
+495,551,Rua coriolano durand ,"Rua Coriolano Durand, Vila Vietnã, Jabaquara, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04377-080, Brasil","(-23.6521942, -46.6550285, 0.0)"
+496,552,Av Roland Garros 1065A jd Brasil Violão ,,
+497,553,Tietê 699 - vila Seabra São Paulo,,
+498,554,"Rua Reverendo Carlos Wesley,336",,
+499,555,"Rua Antônio Ramos dos Reis, 192","Rua Antônio Ramos dos Reis, Jardim Vila Carrão, Jardim Sonia Maria, São Rafael, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08311-080, Brasil","(-23.6258119, -46.4716805, 0.0)"
+500,556,Av Mariana Caligiori Ronchetti ,"Avenida Mariana Caligiori Ronchetti, Cachoeirinha, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02634-020, Brasil","(-23.4596643, -46.6564534, 0.0)"
+501,557,"Rua HerculanoJosédos Santos, 40. B",,
+502,558,Rua do Campinho n 39  Bairro Engenheiro Goulart CEP 03726-055,,
+503,559,"Rua Teofilândia 98 ,Itaim Paulista cep 08141-135",,
+504,560,Travessa de manacá 146,"Travessa Pé de Manacá, Fortaleza, Iguatemi, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08341-000., Brasil","(-23.61247, -46.4445327, 0.0)"
+505,561,Rua estevan de araujo Almeida n674,"Rua Estevan de Araújo Almeida, Campina, São Leopoldo, Região Geográfica Imediata de Novo Hamburgo - São Leopoldo, Região Geográfica Intermediária de Porto Alegre, Rio Grande do Sul, Região Sul, 93110-351, Brasil","(-29.7529833, -51.1563211, 0.0)"
+506,562,"Av. Santa Mônica, 525","Avenida Santa Monica, Vila Pirituba, Jardim Santa Mônica, Pirituba, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05172-270, Brasil","(-23.4800395, -46.7477736, 0.0)"
+507,563,"rua Capela da Lagoa, 518","Rua Capela da Lagoa, Jardim Pirituba, Jaraguá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02995-145, Brasil","(-23.454078, -46.7291402, 0.0)"
+508,564,"RUA:CANINDÉ 83, BAIRRO: CANINDÉ ,CEP 03033-000",,
+509,565,Rua General Mello Rezende 200,,
+510,566,Rua Luiz de Almeida Fernandes 230,,
+511,567,Avenida Sapopemba trinta mil cento e catorze,,
+512,568,R Luiz Maria Soares 168casa 1,,
+513,569,Associação de mulheres Boulevard da paz rua João de Almada número 228,,
+514,570,Rua jornalista marsial s/n,,
+515,571,"Comunidade Cidade Azul ,comunidade Santos ,Vila campestre ",,
+516,572,"Rua Serafim Augusto lopes, 63   CEP   03717-080f",,
+517,573,"Av.Francisco Machado da Silva, 648 Jd.Antártica",,
+518,574,Rua Francisco Nunes cubas,"Rua Francisco Nunes Cubas, Jardim Brigída, Santo Antônio Paulista, Ferraz de Vasconcelos, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08450-460, Brasil","(-23.5472277, -46.3911496, 0.0)"
+519,575,"R. Alice Candida da Silveira, 12",,
+520,576,"Rua Variações Musicais, 100","Rua das Variações Musicais, Vila Orfeões, Jardim Ângela, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04940-140, Brasil","(-23.6883485, -46.7598172, 0.0)"
+521,577,"R Antonio Ramos Junior, 467",,
+522,578,"ENDEREÇO DA ONG RUA ITAJUIBE, 2245 - JD NÉLIA - ITAIM PAULISTA",,
+523,581,Favela,"Favela, Cuauhtémoc, Chihuahua, México","(28.513035, -106.6977541, 0.0)"
+524,582,Rua dos condoreiros 275,"Rua Serafim Poli, Parque Novo Mundo, Vila Maria, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02168-150, Brasil","(-23.5202456, -46.5779302, 0.0)"
+525,583,Trabessa terra tombada 659,,
+526,584,"AVENIDA Visconde do Rio Grande, 215 Jd. São Jose",,
+527,585,"Rua Benedito Leal, 245 - Artur Alvim - São Paulo - CEP 03567-060      -   SEDE",,
+528,586,"Rua joão Rosa, 57","Rua João Rosa, Jardim Arantes, Iguatemi, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08382-557, Brasil","(-23.6208041, -46.4213792, 0.0)"
+529,587,"RUA RUABENS FRAGA DE TOLEDO ARRUDA, 778 SALA 89 BLOCO B",,
+530,590,"Rua Antônio Burlini, 1000 Jd São Judas Tadeu - extremo sul de São Paulo ",,
+531,591,"Avenida Túlio Teodoro de Campos, 55, Jabaquara","Avenida Tulio Teodoro de Campos, Jabaquara, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04360-040, Brasil","(-23.6410784, -46.6621072, 0.0)"
+532,592,Travessa cachoeira de Paulo Afonso 25,"Travessa Cachoeira de Paulo Afonso, Vila Cachoeira das Garças, Bairro dos Perreira, Cidade Tiradentes, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08470-800, Brasil","(-23.5836774, -46.3867302, 0.0)"
+533,593,"Estrada das taipas, 1002","Estrada das Taipas, Vila Jardim Rincão, City Jaraguá, Jaraguá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02998-060, Brasil","(-23.435319, -46.7284245, 0.0)"
+534,594,Avenida Flor da Abissínia 238,"Rua Flor da Abisinia, Vila Guarani, Itaquera, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08050-710, Brasil","(-23.5185678, -46.4632003, 0.0)"
+535,595,Rua  Vicenti.Mazetti   128,,
+536,596,Av aguiar da beira 15 B favela ao lado,,
+537,597,Rua Frei Mateus de Assunção 292    /   cep  08320-590 Pq: São Rafael São Mateus-SP,,
+538,598,"Rua Carl Weiss, 267","Rua Carl Weiss, Jardim São Luís, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04913120, Brasil","(-23.6843728, -46.7385797, 0.0)"
+539,599,Rua Marechal de Mello ararigboia 189 Vila Francos ,,
+540,600,Rua Canários número 17 antigo 216,,
+541,601,Rua pedro maciel 109,"Rua Pedro Maciel, Jardim São Carlos, Limoeiro, Vila Jacuí, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08061-380, Brasil","(-23.5055584, -46.4680783, 0.0)"
+542,602,Rua pedro maciel 109,"Rua Pedro Maciel, Jardim São Carlos, Limoeiro, Vila Jacuí, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08061-380, Brasil","(-23.5055584, -46.4680783, 0.0)"
+543,603,Ocupação Alojamento,,
+544,604,Rua Edgard leuroth 85 Alojamento,,
+545,605,"Rua Gaspar do Rego Figueiredo, 518","Rua Gaspar do Rego Figueiredo, Jardim São Luís, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04915-170, Brasil","(-23.6798186, -46.7490257, 0.0)"
+546,606,RUA Peixoto Werneck 165 sala 6 Artur Alvim ,,
+547,607,Rua das usinas 307,"Rua das Usinas, Vila Penteado, Brasilândia, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02864000, Brasil","(-23.467078, -46.6845291, 0.0)"
+548,608,"Rua Francisco Cardoso Junior, 19 - CEP 08421-105 - São Paulo/SP",,
+549,609,Rua carlos reverendo wesly 336,"Rua Reverendo Carlos Wesly, Vila Penteado, Brasilândia, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02864-000, Brasil","(-23.4738625, -46.68158, 0.0)"
+550,610,"Rua Antônio Silvestre leite 233, tanquinho,  ferraz de vasconcelos ","Rua Antônio Silvestre Leite, Jardim Vista Alegre, Vila Andeyara, Ferraz de Vasconcelos, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08531-300, Brasil","(-23.5404263, -46.3742467, 0.0)"
+551,611,Rua monsenhor paulo Fernandes de Barros 28,"Rua Monsenhor Paulo Fernandes de Barros, Freguesia do Ó, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02765000, Brasil","(-23.4819193, -46.6773243, 0.0)"
+552,612,Imirim,"Imirim, Santana, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02537-000, Brasil","(-23.4910951, -46.6470601, 0.0)"
+553,613,Rua Custódio Mesquita 99,"Rua Custódio Mesquita, Nova Kennedy, vila kennedy, Zona Oeste do Rio de Janeiro, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 21852050, Brasil","(-22.8530393, -43.4961925, 0.0)"
+554,614,"Rua Ernesto Van Dyck, 351","Rua Ernesto Van Dyck, Vila Sebastião Afonso, Jardim Miriam, Cidade Ademar, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04412-010, Brasil","(-23.6748306, -46.6441732, 0.0)"
+555,615, Vitória do espírito santo comunidade da coca cola,,
+556,618,"Avenida São Paulo, 700.","Avenida São Paulo, Jardim Centenário, Aracaju, Microrregião da Grande Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49087648, Brasil","(-10.9019731, -37.0923784, 0.0)"
+557,619,"Rua Frederico Esteban Júnior, 182","Rua Frederico Esteban Júnior, Vila Albertina, Tremembé, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02356-020, Brasil","(-23.4466306, -46.6126062, 0.0)"
+558,620,RUA doutor Azevedo Lima 86,,
+559,621,R. Flor de Lis ( Morro do Piolho da Vila Brasilandia),,
+560,622,RUA VALKIRIA 91,"Rua Valkiria Aparecida de Queiroz da Silva, Campinas, Região Imediata de Campinas, Região Metropolitana de Campinas, Região Geográfica Intermediária de Campinas, São Paulo, Região Sudeste, 13058-533, Brasil","(-22.9317538, -47.1751848, 0.0)"
+561,623,Estrada Aricanduva 82,"Estrada Aricanduva, José Bonifácio, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08485-475, Brasil","(-23.5939493, -46.4303276, 0.0)"
+562,625,Rua São Roque de Minas 398  Jd. Antártica Cep 02679-110,,
+563,626,"Av. Canal de Tutoia, 12 - A jd.camargo novo - Itaim Paulista ",,
+564,627,"Rua Mário wilches,12 b","Rua Mário Wilches, Jardim Herplin, Jardim Iporã, Parelheiros, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04858-570, Brasil","(-23.770704, -46.7145401, 0.0)"
+565,629,"Estrada Canal do Cocaia, 5950 - Jd. Gaivotas - São Paulo - SP  ",,
+566,630,"Rua Tenente Odilon Raposo, 01 CeP 04855-250  ( fundos da Sociedade )",,
+567,631,Rua Marechal de Mello Ararigboia 189 Vila Francos ,,
+568,632,Travessa estrela n28,"Travessa Estrela, Rio Branco, Microrregião de Rio Branco, Região Geográfica Intermediária de Rio Branco, Acre, Região Norte, 69911-030, Brasil","(-9.9922461, -67.8311549, 0.0)"
+569,633,Estrada do Jaceguava 2004,"Estrada do Jaceguava, Jardim Almeida, Parelheiros, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 06900000, Brasil","(-23.7879469, -46.7730329, 0.0)"
+570,634," Rua Neve na Bahia, 18 - CEP 08257-110 ",,
+571,635,"RUA ,CULTURA POPULAR,  N° - 161 B JARDIM ARISTOCRATA ",,
+572,636,"Av Água Vermelha, 11B - Villa Nova Curuçá - São Paulo - SP - 08031-080",,
+573,637,Moisés de corena 1501,"Rua Moisés de Corena, Vila Castro Alves, Cidade Tiradentes, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08475-520, Brasil","(-23.5844991, -46.402203, 0.0)"
+574,638,RUA CAMPINAS DO PIAUÍ 330 AS FAMÍLIAS RETIRAM E COMUNIDADE PQ BOA ESPERANÇA,,
+575,639,RUA ANTONIO PEACCI Nº 100,"Rua Antônio Peacci, Vila Formosa, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03463-070, Brasil","(-23.5764987, -46.529203, 0.0)"
+576,640,Rua Quimili 511,"Rua Quimili, Jardim São Luís, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04909100, Brasil","(-23.6786433, -46.7351152, 0.0)"
+577,641,"Rua Antônio Lopes de Medeiros,274 Jd Eliana",,
+578,642,Rua Juritis n:71 Vagem Grande (Parelheiros) CEP 04895240,,
+579,643,"Jardim mirin,ermelindo matarazzo ",,
+580,644,"RUA CIDADE DOS REIS, 103 - JARDIM MARGARIDA - SÃO PAULO - SP. CEP. 08191-090",,
+581,645,"Rua Adobe, 48, próximo a Estação Jardim Romano da CPTM",,
+582,646,Rua Três Coarações nº 500,,
+583,647,R:Henrique Hessel 3078,"Rua Henrique Hessel, Jardim dos Álamos, Jardim Almeida, Parelheiros, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04882-010, Brasil","(-23.8118775, -46.7533469, 0.0)"
+584,648,"Rua Clorindo de Oliveira Caje, 25 - Jardim Nelly Butantã",,
+585,649,"Rua Fernão Mendes Pinto, 634 - Ermelino Matarazzo","Rua Fernão Mendes Pinto, Vila Sapolândia, Ermelino Matarazzo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03801-120, Brasil","(-23.4949913, -46.4897076, 0.0)"
+586,650,"Rua Augusto Conradi, 28","Rua Augusto Conradi, Jardim Vera Cruz, Jardim Ângela, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04962-000, Brasil","(-23.7376669, -46.779839, 0.0)"
+587,651,Rua Andreia de Firenze  71,,
+588,652,rua padre FranciscoVeloso n300,,
+589,653,"Rua das Tres Marias,122 Jardim Turquesa cep 05874-180 SP",,
+590,654,Rua Jose Teodoro de Lima 29,"Rua José Teodoro de Lima, Vila Jardim Santa Josefina, Jardim São Luís, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05819080, Brasil","(-23.6647203, -46.7328146, 0.0)"
+591,655,"Rua Rodrigues Caldas, 142, Jardim Vera Cruz SP.",,
+592,656,Travessa vilma flor 786   Terra prometida         Cep 09473440,,
+593,657,"Rua Manoel Guilherme dos Reis, 438",,
+594,659,"Rua Daniel Cerri, 1138, Jd. Paraná, CEP- 02876-170",,
+595,660,Rua genario olavide 204,,
+596,661,"Avenida Manoel da Maia, 129",,
+597,662,"Rua: Bispo e Martins, 17","Rua Bispo e Martins, Jardim Keralux, Ermelino Matarazzo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03828-000, Brasil","(-23.4804757, -46.494698, 0.0)"
+598,663,Rua Maria Amélia Gouveia André 158,"Rua Maria Amélia Gouveia André, Jardim São Luís, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05850-270, Brasil","(-23.6602097, -46.7569455, 0.0)"
+599,664,"RUA SERAFIM AUGUSTO LOPES,63. CEP. 03717/080",,
+600,665,Colônia japonesa Chubei Takahashi ,,
+601,666,"Rua Francisco Inácio Solano, 61","Rua Francisco Inácio Solano, Vila Cantinho do Céu, Grajaú, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04849-503, Brasil","(-23.7433668, -46.6559357, 0.0)"
+602,667,Rua Manoel Bueno da Fonseca 503 A ,,
+603,668,"Rua Bruno Zabala, n° 106 sala 03, CEP 08250-590 Itaquera - Conjunto José Bonifácio - São Paulo - SP",,
+604,669,RUA SABIA LARANJEIRA 758 SAO MIGUEL PTA,,
+605,670,"Avenida Túlio Teodoro de Campos, 55, Jabaquara","Avenida Tulio Teodoro de Campos, Jabaquara, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04360-040, Brasil","(-23.6410784, -46.6621072, 0.0)"
+606,671,"Rua Argentina, 41","Rua Argentina, Vasco da Gama, Zona Central do Rio de Janeiro, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 20921-270, Brasil","(-22.8917848, -43.2249132, 0.0)"
+607,672,Jardim Dona Sinha / Jardim Imperador ,"Vila Jardim Dona Sinhá, Sapopemba, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, Brasil","(-23.591402000000002, -46.51048299285714, 0.0)"
+608,673,Rua Pedro Osório filho 995 ,"Rua Pedro Osório Filho, Vila Amélia, Cachoeirinha, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02474050, Brasil","(-23.4735871, -46.6557866, 0.0)"
+609,674,"Rua Jaime ovale, 43a","Rua Jaime Ovale, Jardim Guanabara, Zona Norte do Rio de Janeiro, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 21940-410, Brasil","(-22.8129964, -43.1953134, 0.0)"
+610,675,Rua João Pires Monteiro 401 ,"Rua João Pires Monteiro, Vila João Peres Calhamares, Jardim São Roberto, Sapopemba, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03975-130, Brasil","(-23.6081812, -46.4901036, 0.0)"
+611,676,"rua Almirante Oliveira Pinto,53 fundos",,
+612,677,Julio maciel 428,"Rua Julio Maciel Ferreira, Guariba, Região Imediata de Ribeirão Preto, Região Metropolitana de Ribeirão Preto, Região Geográfica Intermediária de Ribeirão Preto, São Paulo, Região Sudeste, 14840000, Brasil","(-21.3715563, -48.2241905, 0.0)"
+613,678,"Rua Jacinto Pereira, 726","Rua Jacinto Pereira, Vila Jardim Panamericano, Parque Nações Unidas, Jaraguá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02991-000, Brasil","(-23.4509881, -46.7285688, 0.0)"
+614,679,Rua Luis Baldinato,"Rua Luís Baldinato, Jardim Caiçara, Jardim Guarujá, Jardim Ângela, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04929-250, Brasil","(-23.6839389, -46.7696932, 0.0)"
+615,680,Rua três Rios 24 bom retiro,"Rua Três Rios, Bairro da Luz, Bom Retiro, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 01124060, Brasil","(-23.5297469, -46.6350552, 0.0)"
+616,681,Raio de 6km do endereço da instituição  ( zona norte),,
+617,682,"Travessa Sene do Reino,162, Cohab Adventista,05868-230 /Rua Integrada,300, CEP 05868-670",,
+618,683,"Rua Josino Mendes de Alvarenga Freire, 85, Casa 1, CEP- 03.945-080, Jd. Tiête",,
+619,684,Raio de 6km do endereço da instituição  ( zona norte),,
+620,685,RUA PLANALTO DOS ACANTILADOS   110  PARQUE SANTA MADALENA  comunidade  santa madalena  maria terezina Iguaçu jardim  anjela e outros cou,,
+621,687," Praca Padre Joao Bosco Penido Burnier, 740, jardim julieta, são paulo sp",,
+622,688,"Fazenda da Esperança sagrada família Parelheiros, Estrada do taquaral,250",,
+623,689,Rua jose gomes de GOUVEIA N 91,,
+624,694,"Rua Ramos de Oliveira, 88 - Limoeiro -  Vila Jacuí","Rua Ramos de Oliveira, Jardim São Carlos, Limoeiro, Vila Jacuí, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08050-710, Brasil","(-23.5104291, -46.4653221, 0.0)"
+625,695,Bandeirantes ,"Bandeirantes, Região Geográfica Imediata de Cornélio Procópio-Bandeirantes, Região Geográfica Intermediária de Londrina, Paraná, Região Sul, Brasil","(-23.107788, -50.370407, 0.0)"
+626,696,Av. Agua vermelha. Particular 7 n 2 D. Jardim Robru.  CEP. 08031-080 - São Paulo ,,
+627,698,Rua coriolano durand ,"Rua Coriolano Durand, Vila Vietnã, Jabaquara, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04377-080, Brasil","(-23.6521942, -46.6550285, 0.0)"
+628,699,"Rua Maria Amália Lopes de Azevedo, 4.180. Jd. Filhos da Terra -  CEP 02318-000  SP",,
+629,700,"rua silveira martins,131, sala 21",,
+630,701,Rua Alberto buriti 39,"Rua Alberto Buriti, Vila Corumbé, Brasilândia, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02855-030, Brasil","(-23.4573556, -46.7040752, 0.0)"
+631,702,Avenida Muzambinho 221,"Avenida Muzambinho, Vila Muzambinho, Jabaquara, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04336-160, Brasil","(-23.6623524, -46.6406463, 0.0)"
+632,703,Rua Coriolano Durand 23A,"Rua Coriolano Durand, Vila Vietnã, Jabaquara, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04377-080, Brasil","(-23.6521942, -46.6550285, 0.0)"
+633,704,Rua Grevilha com Dominico el Pane Lucas Lussius,,
+634,705,"Rua Cabeceiras de Basto, 90","Rua Cabeceiras de Basto, Cohab Monet, Capão Redondo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05790-150, Brasil","(-23.6500623, -46.781369, 0.0)"
+635,706,"Rua Nossa Senhora Aparecida,01 ","Rua Nossa Senhora Aparecida, Vila Valéria, Valéria, Salvador, Microrregião de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41332-010, Brasil","(-12.8700821, -38.4325775, 0.0)"
+636,707,"Rua Capitao Salomão,55-centro- São Paulo -cep-01034-020",,
+637,708,Rua Leopoldo de Freitas 444 Vila Centenário ,,
+638,709,Rua Antonio Fontana n°551,,
+639,710,"Rua: Atica, 577 - Jd.Brasil",,
+640,711,Av Interlagos,"Avenida Interlagos, Campo Grande, Vila Arriete, Campo Grande, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04437060, Brasil","(-23.6728398, -46.6774844, 0.0)"
+641,712,"Rua João Scatamacchia, 696 ","Rua João Scatamacchia, Campinha, Vila Arriete, Campo Grande, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04660005, Brasil","(-23.6791749, -46.6799185, 0.0)"
+642,713,"Rua Carlos Palagreco, 48 Jd Nove de Julho",,
+643,714,"Rua Francisco Correa Vasquez, 52",,
+644,715,Expedito de Oliveira Santos 269,,
+645,716, Endereço Rua Maues 293 Vila Prado Bairro do Limão ,,
+646,717,Av Francisco Rodrigues 371,"371, Avenida Francisco Rodrigues, Parque Edu Chaves, Jardim Modelo, Jaçanã, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02259-000, Brasil","(-23.4709330972129, -46.58125787004125, 0.0)"
+647,718,"Rua Pastor Agenor Caldeira Diniz, 495","Rua Pastor Agenor Caldeira Diniz, Jardim Imperador, São Mateus, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03931-040, Brasil","(-23.5864759, -46.4974634, 0.0)"
+648,719,Rua Vicentinha C. Ferreira N,,
+649,720,Rua Guilherme de Poitiers 185,"Rua Guilherme de Poitiers, Vila João Manoel Vaz, Jardim Ângela, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04916-000, Brasil","(-23.6845187, -46.753588, 0.0)"
+650,721,"Rua Tancredo Neves 53, Jardim Novo Carrão cep 03908-045",,
+651,722,Jd Orion,"JD TERRACE, オリオン通り, 宇都宮市, 栃木県, 320-0802, 日本 (Japan)","(36.560375, 139.883161, 0.0)"
+652,723,"R. Pedro Klein do Nascimento, 20 - Parelheiros, São Paulo - SP, 04890-370",,
+653,724,"Rua João Joaquim Alão, 04 - Vila Inacio - Perus",,
+654,725,"Rua turquesa 19, Jd comercial.",,
+655,726,"Rua Otelo Augusto Ribeiro, 592 - Guaianases","Rua Otelo Augusto Ribeiro, Jardim Soares, Guaianases, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08411-145, Brasil","(-23.5450049, -46.409862, 0.0)"
+656,727,Rua Carlos Facchina 891,"Rua Carlos Facchina, Cidade Ademar, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04427-020, Brasil","(-23.6803276, -46.6522229, 0.0)"
+657,728,"Rua: Israel , 24 Jardim Uniserve ",,
+658,729,Jardim Dona Sinhá/ Favela ,,
+659,730,Favela pantanal ,,
+660,731,"Avenida Antonio Ramiro da Silva, 466","Avenida Antônio Ramiro da Silva, Raposo Tavares, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05396-450, Brasil","(-23.5794668, -46.7756543, 0.0)"
+661,732,Rua luis carlos de mouras campos 457 jardim ipe,,
+662,733,"Rua Tijuco da Serra, 224","Rua Tijuco da Serra, Jardim Nakamura, Jardim Ângela, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04942100, Brasil","(-23.7031008, -46.7743494, 0.0)"
+663,734,"Avenida Engenheiro Heitor Antônio Eiras Garcia ,7800","Avenida Engenheiro Heitor Antônio Eiras Garcia, Jardim Rosa Maria, Jardim Dracena, Raposo Tavares, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05564-100, Brasil","(-23.5876265, -46.7635765, 0.0)"
+664,735,"Rua fermentelo , 16",,
+665,736,Rua Falkenberg número 07,,
+666,737,"Rua Carlantonio Carlone, 102 - Jardim Jaqueline CEP 05529-000 São Paulo ",,
+667,738,Estrada do campo limpo 1100,"Estrada do Campo Limpo, Jardim Maria Duarte, Campo Limpo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05784-120, Brasil","(-23.6226004, -46.7624883, 0.0)"
+668,739,RUA MAJOR DIOGO 285,"Rua Major Diogo, Bixiga, Bela Vista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 01318-001, Brasil","(-23.5574899, -46.6427711, 0.0)"
+669,740,"Rua Caitutu , ","Fazenda Caitutú, Cabrobó, Região Geográfica Imediata de Petrolina, Região Geográfica Intermediária de Petrolina, Pernambuco, Região Nordeste, Brasil","(-8.5222018, -39.367919, 0.0)"
+670,741,"Rua Caitutu , ","Fazenda Caitutú, Cabrobó, Região Geográfica Imediata de Petrolina, Região Geográfica Intermediária de Petrolina, Pernambuco, Região Nordeste, Brasil","(-8.5222018, -39.367919, 0.0)"
+671,742,"Bairro São Mateus, Jardim cinco de julho",,
+672,743,"rua japichaua, ","Rua Japichaua, Ermelino Matarazzo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03810-110, Brasil","(-23.4830556, -46.4669496, 0.0)"
+673,744,Rua Peixoto werneck  433  bairro de artur alvim,,
+674,746,"Rua Ipê Roxo,1308","Rua Ipê Roxo, Barão Geraldo, Campinas, Região Imediata de Campinas, Região Metropolitana de Campinas, Região Geográfica Intermediária de Campinas, São Paulo, Região Sudeste, 13085060, Brasil","(-22.8000558, -47.0789923, 0.0)"
+675,747,Rua Rafael correia da silva 84,"Rua Rafael Correia da Silva, Vila Simone, Itaim Paulista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08110-220, Brasil","(-23.4940197, -46.399917, 0.0)"
+676,749,Rua João Batista Barroso Filho n?183,,
+677,750,Pq. Bancário ,,
+678,751,Favela Tangara/ Jardim Sinhá ,,
+679,752,R: carnaval 219,"Carnaval, Canton Cavinas, General José Ballivián Segurola, El Beni, Bolivia","(-11.9907248, -66.8955738, 0.0)"
+680,753,"Avenida Guarapiranga, 3658","Avenida Guarapiranga, Socorro, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04768-000, Brasil","(-23.6659613, -46.7134528, 0.0)"
+681,754,Emílio castro 437 Jardim damasceno ,,
+682,755,Rua Galvão Bueno n ° 782 - Sindicato dos Metalúrgicos,,
+683,756,Rua das crianças  Jardim Sao Martinho,,
+684,757,Rua Conego Antonio Manz 43,,
+685,758,Francisco Morato bairro Água vermelha rua Francisco Lupianhes Romero n 264,,
+686,759,Rua fulgêncio vertelo 24,,
+687,760,Rua Visconde de Souza Franco/ Jardim Sinhá / Buraco do tatoo,,
+688,761,Rua Salvador Mota/casinhas São Nicolau/Favela da Coral,,
+689,762,Rua Dr. Gustavo da Veiga n. 38,,
+690,763,"Rua Tenente Sotomano, 1209 Jardim Brasil Cep. 02226-000",,
+691,764,"Rua Estevam de Araújo Almeida, 692 parada IX novembro -SP",,
+692,766,Rua Barão Carvalho do Amparo 37 B,"Rua Barão Carvalho do Amparo, Conjunto Inácio Monteiro, Cidade Tiradentes, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08490-490, Brasil","(-23.5838901, -46.4118186, 0.0)"
+693,767,Av D João nere jardim bartira,,
+694,768,Rua Taimir n 01 jd universal,,
+695,769,Rua fontes de Roma no 6 charara Santana,,
+696,770,Rua fontes de Roma no 6 charara Santana,,
+697,771,"Rua vergueiro, 1803 salas 2/3",,
+698,772,Av Félix nascentes Pinto 106Jardim Helena ,,
+699,773,Av Félix nascentes Pinto 106Jardim Helena ,,
+700,774,"Rua Dr. Gustavo da Veiga,38",,
+701,775,"R. Domingos de Martins Pacheco, 51",,
+702,776,"Rua Mangualde, 25 Parque Santo Antonio. São Paulo/SP Cep 05851-260",,
+703,777,"Rua Alabano , 126  Jd do Russo Perus - SP - 05205 - 240",,
+704,778,"Rua João Gottzfritz Filho, 18 , Jd Régis, São Paulo SP",,
+705,779,"R. Dr. Alexandre Kalil Yazbek, 35 - Praia do Leblon, São Paulo - SP, 04474-370 Telefone: (11) 5672-8095,  R. Guido Frederico João Pabst, 50 - Nova Piraju, São Paulo - SP, 04633-080 Telefone: (11) 5094-0725,  Rua Cataguaz, 208 - Ibirapuera, São Paulo - SP,",,
+706,780,Rua Travessa Jóia do Cabo Nº 17 ? São Paulo ? SP -  CEP: 08150-690 ,,
+707,781,"Rua Victório Santim, 1511, Vila Carmozina, Itaquera, São Paulo ",,
+708,782,RUA DO CAMPINHO Nº 39 BAIRRO ENGENHEIRO GOULART CEP 03726-055,,
+709,783,RUA DO CAMPINHO Nº 39 BAIRRO ENGENHEIRO GOULART CEP 03726-055,,
+710,784,Rua Nova do Tuparoquera 1750,"Rua Nova do Tuparoquera, Jardim São Luís, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05822-015, Brasil","(-23.665608, -46.7452109, 0.0)"
+711,785,"As famílias beneficiadas são moradoras da ocupação Jd Vila Bela, e bairros  Jd Vila Carrão, Vila Ester e Jd Santa Barbara  em São Mateus -SP",,
+712,786,"Rua Jorge Ogushi,671","Rua Jorge Ogushi, Aricanduva, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03463-070, Brasil","(-23.5715075, -46.5214367, 0.0)"
+713,787,Rua acarirema 84 jardim das rodas São Paulo- só ,,
+714,789,Rua Antonio FORTINO no  06  Pargue independência  cep 05875 220,,
+715,790,"Rua Estevan de Araújo Almeida,674","Rua Estevan de Araújo Almeida, Campina, São Leopoldo, Região Geográfica Imediata de Novo Hamburgo - São Leopoldo, Região Geográfica Intermediária de Porto Alegre, Rio Grande do Sul, Região Sul, 93110-351, Brasil","(-29.7529833, -51.1563211, 0.0)"
+716,791,"Rua Guapimirim, 278 - Jardim Popular - CEP: 03672-040",,
+717,792,Rua Martimperere n°18 Jd Vista Alegre,,
+718,793,Rua Safira Azul n° 48 Jd Paulistano,,
+719,795,Rua Peixoto Werneck 433,"Rua Peixoto Werneck, Parque das Paineiras, Artur Alvim, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03691-130, Brasil","(-23.5396028, -46.4858937, 0.0)"
+720,796,"Rua Padre Anthony Sammut, 86","Rua Padre Anthony Sammut, São Mateus, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03946-000, Brasil","(-23.5964983, -46.4898755, 0.0)"
+721,797,Rua riacho dos machados 973 ,"Rua Riacho dos Machados, Bem-Querer, Riacho dos Machados, Microrregião Janaúba, Região Geográfica Intermediária de Montes Claros, Minas Gerais, Região Sudeste, Brasil","(-16.1814036, -43.171508, 0.0)"
+722,798,"Estrada dom João Nery, 3201","Estrada Dom João Nery, Vila Curuçá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08151-602, Brasil","(-23.5118992, -46.4016224, 0.0)"
+723,799,Rua manoel Rodrigues santiago 88 bloco 1 b ,,
+724,800,"A distribuição das cestas básica pelo Instituto, possui 5 pontes fixas de entrega e mais as pessoas que moram no entorno do Instituto que buscam mensalmente estas cestas",,
+725,802,JOAO AMOS COMENIUS 849-JARDIM SÃO BERNARDO,,
+726,803,Rua Leonel Ferreira /Ponte Rasa /Rua Agreste de Itabaiana /Vila União,,
+727,804,"Rua Marabá, 08 ? Jardim Manacá da Serra ? CEP: 04884-000 ? São Paulo - SP",,
+728,805,"Rua Otusco, n. 42 - Bairro Santo Amaro - Cep 05.797-430",,
+729,806,"Rua Madre de Deus, 1525 - Mooca","1525, Rua Madre de Deus, Mooca, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03119-001, Brasil","(-23.566843615151516, -46.58960603030303, 0.0)"
+730,807,Rua guassantungas 327,,
+731,808,"Região de Parelheiros (SP, zona sul",,
+732,809,Rua riacho dos machados 971,"Rua Riacho dos Machados, Bem-Querer, Riacho dos Machados, Microrregião Janaúba, Região Geográfica Intermediária de Montes Claros, Minas Gerais, Região Sudeste, Brasil","(-16.1814036, -43.171508, 0.0)"
+733,810,"Rua Camacam, Rua Martinho de Campos, Rua Botocudos, Rua benedito Campos de Moraes, Rua Araguatins, Rua Bartomolou Paes, Rua Alvarenga peixoto",,
+734,811,"Rua Frei Francisco, 226. Jardim Helena. Escritório da Ong",,
+735,812,"Rua Roberto Medeiros, 204","Rua Roberto Medeiros, José Bonifácio, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08253-000, Brasil","(-23.5489613, -46.4390623, 0.0)"
+736,813,Rua vovó Carolina N° 64 ,,
+737,814,Rúa tiniciro icibasi 1067,,
+738,815,"Estrada Dom João Nery, 2404 Jardim Bartira/Itaim Paulista",,
+739,816,"Alziro Pinheiro de Magalhães,1037 e 1039",,
+740,817,"Av. Bras Leme, 2241 - Cj 41 - Santana - Cep. 02022-010 - São Paulo - SP",,
+741,818,"Estrada do Alvarenga 3865, travessa Nova Dorotéia",,
+742,819,Rua Marcos Soares Pereira n.31- Sala 01- Jardim Nélia CEP 08142-005,,
+743,820,"Rua Teodoro Sampaio, 282 - Sala 4 - Jardim Paulista - Cep. 05406-000 - São Paulo - SP",,
+744,821,Av metalurgicos 1065,"Avenida Metalurgicos, Rodilândia, Nova Iguaçu, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 26285320, Brasil","(-22.737743, -43.5091464, 0.0)"
+745,822,Rua Guarapiranga 349,"Rua Guarapiranga, Vila Jardim Jaraguá, Itaim Paulista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08110-220, Brasil","(-23.5035239, -46.4055615, 0.0)"
+746,823,Favela Toystoy / Rua Manoel de Arruda Castanho ,,
+747,824,"RUA OCAPEGUARA, 84 JARDIM UMARIZAL - SÃO PAULO",,
+748,825,Rua Joaquim Guimarães Rua 385bloco10  apto10 CEP 05574010,,
+749,826,"RUA MAFRA, 57- CEP 0932-440, BAIRRO: ESTORIL -SÃO BERNARDO DO CAMPO",,
+750,827,JARDIM FILHOS DA TERRA - SP,,
+751,828,"Av. Pires do Rio, 3.185 - Jd Norma- Itaquera- SP",,
+752,829,Rua Aurélio Neves 197,"Rua Aurélio Neves, Vila Cunha Bueno, Sapopemba, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03985-000, Brasil","(-23.6087262, -46.5181528, 0.0)"
+753,830,RUA SERNAMBI Nº87 VILA PENTEADO,,
+754,831,Travessa Palma de santa Rita n 20. Casa 9,,
+755,832,"Rua fontes de Roma, número 6. Chácara Santana. CEP: 05821070",,
+756,833,RUA SERNAMBI Nº87 VILA PENTEADO,,
+757,834,Estrada João Nery. 4375,,
+758,835,"RUA JOSÉ ANTONIO VALADARES, 1689","Rua José Antônio Valadares, Vila Santa Tereza, Jardim Santa Cruz, Sacomã, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04187-200, Brasil","(-23.6475714, -46.5932887, 0.0)"
+759,836,"JD, Vista Alegre ","JD Eletrônica, Avenida Prefeito Dácio Oliveira, Vista da Chácara, Chácara, Caetité, Microrregião de Guanambi, Região Geográfica Intermediária de Vitória da Conquista, Bahia, Região Nordeste, 46400-000, Brasil","(-14.0647876, -42.4868366, 0.0)"
+760,837,RUA SERNAMBI Nº87 VILA PENTEADO,,
+761,838,Rua Pastor João Gomes Pereira,"Rua Terra Nova, Chácara Dona Olivia, Santa Margarida Paulista, Itaim Paulista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 08140-000, Brasil","(-23.5205991, -46.3915237, 0.0)"
+762,839,"Rua Jorge Carlos de Almeida, 30 cep 08390355 São Paulo",,
+763,840,"Rua Arnaldo Cintra, 416, Bloco 1, Ap. 95",,
+764,841,Rua Mongaguá 361,"Rua Mongaguá, Balneário Itaguaí, Mongaguá, Região Imediata de Santos, Região Metropolitana da Baixada Santista, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 11730-000, Brasil","(-24.1224136, -46.6946161, 0.0)"
+765,842,"Centro.Comunitario Aguas Espraiadas - Rua:Atica, 577.- Jd. Brasil",,
+766,843,Rua Conjunto da Paz 39H Jd Mirian II 08142-360,,
+767,844,Rua José Francisco Lopes 553 Vila Nhocune cep 03562040 São Paulo- Sp,,
+768,845,"Avenida Nordestina, 3783 - 2º Andar",,
+769,846,Rua Oscar Pander ,"Rua Oscar Pander, Jardim Pirituba, City Jaraguá, Jaraguá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02998-140, Brasil","(-23.4344157, -46.7361063, 0.0)"
+770,847,R: Oscar Pander,"Rua Oscar Pander, Jardim Pirituba, City Jaraguá, Jaraguá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02998-140, Brasil","(-23.4344157, -46.7361063, 0.0)"
+771,848,Rua Chales Rosen Travessa Bahia n?14 bairro JARDIM GAIVOTAS ,,
+772,849,"Rua Fajardo de Barros, 61 - Jd Campos - Itaim Paulista",,
+773,850,Av. Miguel conejo 20 freguesia do Ô São Paulo,"Avenida Miguel Conejo, Parque Monteiro Soares, Freguesia do Ó, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02735000, Brasil","(-23.4968875, -46.69289, 0.0)"
+774,851,Rua Alcidio Gomes N 103,"Rua Alcídio Gomes, Lagoa Grande, Parelheiros, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 0489300, Brasil","(-23.866867, -46.7560378, 0.0)"
+775,852,"Estrada do M'boi Mirim, 1060, Bairro: Jardim das Flores, CEP 04905020",,
+776,853, Rua jose alves de sena 120 Jardim iguatemi,,
+777,854,Rua alexandre groppali 215,"Rua Alexandre Groppali, Fazenda da Juta, Jardim São Roberto, Sapopemba, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 03977-414, Brasil","(-23.613712, -46.488996, 0.0)"
+778,855,"Rua Maria Amália Lopes de Azevedo, 4.180. Jd. Filhos da Terra -  CEP 02318-000  SP",,
+779,856,Projeto fazendo a diferença.. Centro de São Paulo.. Jardim São Luiz.. ,,
+780,857,RUA ITAPIRU 137,"137, Rua Itapiru, Vila da Saúde, Saúde, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04143-010, Brasil","(-23.6135668, -46.6365465, 0.0)"
+781,858,Rua do outono 410,"Rua do Outono, Brasilândia, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02855-030, Brasil","(-23.4608804, -46.6941593, 0.0)"
+782,859,Rua 26 de abril 117 Na sede ou no espaço social da sede rua do lado,,
